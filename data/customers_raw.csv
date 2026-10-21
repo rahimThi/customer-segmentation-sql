@@ -1,0 +1,2013 @@
+customer_id,gender,age,annual_income,spending_score,profession,work_experience,family_size
+372,Female,66,59500,43,Finance,28,4
+79,Male,77,35000,15,Retired,47,5
+162,Male,40,70500,74,Finance,11,1
+1801,Female,30,49000,61,Education,6,1
+514,Male,55,59500,33,Engineer,23,4
+694,Male,26,41500,65,Sales & Marketing,0,6
+206,Male,47,52000,49,Sales & Marketing,18,3
+1948,Male,62,58500,34,Healthcare,29,4
+1068,Female,35,44500,53,Healthcare,14,4
+568,Male,31,65500,89,IT,6,1
+26,Male,39,45000,59,Finance,13,2
+923,Male,57,70000,56,IT,23,1
+355,Male,22,22500,64,Student,0,2
+1590,Female,23,64500,93,Finance,0,1
+1007,Male,24,68500,76,Engineer,1,6
+1121,Female,66,41000,41,Healthcare,25,3
+1030,Male,34,89500,62,Engineer,2,2
+580,Male,55,76000,13,,23,5
+628,male,41,41500,89,Education,17,2
+422,Female,33,61500,64,Healthcare,9,3
+1721,Male,24,10000,44,Student,0,1
+1897,Female,0,59500,61,Healthcare,15,1
+1825,Male,30,47500,70,Healthcare,1,4
+1570,Female,58,72000,21,Engineer,34,4
+1646,Male,61,34500,63,IT,16,2
+1199,Male,69,24500,31,Retired,45,1
+377,Male,22,59500,77,IT,0,4
+1248,Male,49,49000,67,Sales & Marketing,22,2
+1979,Female,51,86500,33,Finance,20,1
+271,Female,51,63000,71,Finance,29,4
+365,Female,52,45500,51,Skilled Trades,18,2
+1044,Female,34,59000,79,,14,3
+1251,Female,70,26500,16,Retired,46,4
+1334,Male,39,42500,59,Education,14,5
+738,Female,31,67000,69,Finance,11,3
+1866,Female,23,24000,57,Student,0,1
+1535,Male,51,111500,24,Executive,16,2
+190,Female,42,42000,53,Healthcare,15,2
+387,Male,31,61500,68,Engineer,9,2
+1942,Male,20,18500,58,Student,0,1
+880,Female,23,97000,84,Finance,0,3
+371,Female,51,24500,47,Healthcare,24,2
+682,Female,33,33000,41,IT,9,1
+913,Male,34,46500,97,Skilled Trades,4,2
+1528,Female,50,37500,44,Education,19,1
+1904,Female,46,74000,75,IT,15,1
+1378,Female,40,71000,46,Engineer,11,4
+245,Male,73,17000,31,Retired,47,3
+1700,Male,36,60000,66,IT,12,2
+1876,Male,32,47000,60,Skilled Trades,5,4
+723,Male,28,84500,29,Finance,0,2
+1414,Male,20,14000,70,Student,0,1
+450,Male,49,44500,40,Sales & Marketing,17,3
+1555,Male,41,50500,80,Engineer,11,2
+1227,Male,61,27000,32,Skilled Trades,27,1
+1878,Male,41,54000,68,Education,20,4
+1520,Male,35,36000,62,Education,6,4
+478,Female,36,40500,78,Healthcare,15,4
+1287,Male,46,78500,38,Executive,20,6
+57,Female,42,72500,73,Executive,14,1
+797,Female,56,39000,49,Skilled Trades,25,2
+1317,Female,24,14000,69,Student,0,1
+795,Male,63,27500,24,Retired,34,4
+807,Male,30,91500,6,Finance,1,4
+1567,Male,40,45000,63,Sales & Marketing,13,1
+725,Female,37,29000,69,Skilled Trades,14,2
+718,Male,58,69500,46,Sales & Marketing,24,2
+1246,Male,38,56500,48,Education,11,6
+294,Female,21,17000,69,Student,0,1
+392,Female,50,76500,52,Finance,20,5
+1798,Male,41,73000,67,Finance,12,2
+1479,Female,55,69000,60,Engineer,25,4
+991,Female,66,69000,30,Engineer,36,2
+1924,Female,68,34000,41,Retired,39,4
+173,Female,38,53000,58,Healthcare,11,4
+19,Male,22,15000,60,Student,0,1
+397,FEMALE,32,41500,62,Healthcare,8,5
+59,Female,33,55500,67,Sales & Marketing,13,1
+653,Male,49,45000,39,Healthcare,23,1
+261,Male,40,46500,67,Education,15,2
+1868,Female,52,51500,25,Skilled Trades,23,3
+858,Female,22,42500,68,Sales & Marketing,0,2
+1835,Female,62,33500,42,Education,26,1
+324,Male,47,49000,34,IT,14,3
+981,Male,30,41500,81,Skilled Trades,3,4
+155,Female,58,82000,71,IT,20,3
+381,Male,40,47000,63,Skilled Trades,8,2
+831,Male,22,81500,47,IT,0,1
+674,Female,47,112000,28,Finance,15,5
+739,Male,46,49000,40,Education,16,4
+1213,Female,36,45500,64,Skilled Trades,5,2
+1691,Female,31,58500,65,Healthcare,2,2
+901,Male,33,56500,72,IT,7,2
+1244,Male,59,68500,52,IT,26,3
+1905,Female,27,66500,49,Sales & Marketing,1,1
+711,Female,43,44500,60,Engineer,21,3
+1325,Male,75,29000,25,Retired,45,1
+25,Male,30,66500,83,IT,10,2
+139,Male,33,79000,65,Engineer,13,1
+250,Female,56,54000,42,Engineer,20,2
+855,Male,28,81000,36,Engineer,8,4
+1260,Female,53,39000,35,Healthcare,17,4
+889,Male,18,8000,67,Student,0,1
+274,Male,42,133000,72,Executive,12,4
+265,Female,38,66000,61,Engineer,6,3
+1177,F,34,56500,69,Healthcare,14,3
+1524,Male,46,45000,48,Skilled Trades,17,2
+1394,Male,52,37500,32,Sales & Marketing,20,1
+640,Male,77,30000,15,Retired,48,6
+1169,Male,37,21500,74,Sales & Marketing,11,1
+1800,Female,32,48500,62,Skilled Trades,9,2
+524,Male,44,72500,75,Engineer,18,1
+221,Male,70,17500,30,Retired,44,4
+1276,Male,34,72500,81,Healthcare,11,6
+1461,Female,44,56000,54,Sales & Marketing,13,5
+1163,Female,51,50500,40,Skilled Trades,24,4
+1872,Female,49,34500,42,Skilled Trades,13,3
+1326,Female,40,72500,90,IT,9,3
+508,Female,34,41500,40,Skilled Trades,9,2
+993,Male,44,69500,41,Healthcare,14,2
+617,Male,48,63000,61,IT,16,3
+12,Male,46,34000,59,Skilled Trades,19,2
+1743,Male,49,77500,1,Sales & Marketing,16,4
+159,Female,37,42500,63,Skilled Trades,12,3
+1207,Female,45,35000,77,Healthcare,16,3
+388,Female,75,25500,31,Retired,48,2
+1022,Female,22,71000,75,Healthcare,0,2
+1012,Female,36,39500,77,Healthcare,5,4
+1653,Female,38,54000,59,Sales & Marketing,6,3
+1388,Female,47,74000,74,Education,13,3
+117,Female,43,66500,83,Engineer,19,5
+46,Male,55,75500,78,Executive,22,1
+1306,Male,46,54000,66,Engineer,17,1
+1290,Female,31,54500,72,Finance,11,5
+1096,Male,47,88500,64,Finance,10,4
+544,Male,31,44500,80,Skilled Trades,7,1
+886,Female,35,72000,69,Sales & Marketing,0,5
+875,Male,29,38500,82,Skilled Trades,4,3
+76,Male,35,70000,65,Finance,7,3
+10,Male,36,76500,57,IT,10,2
+823,Male,48,40500,45,Sales & Marketing,15,1
+780,Male,48,43000,44,Finance,17,3
+64,Male,35,44500,69,Skilled Trades,12,4
+1995,Male,33,50500,44,Healthcare,3,1
+263,Female,41,43500,66,IT,8,2
+722,Male,40,63500,62,Finance,11,2
+1465,Female,66,72000,54,Engineer,34,2
+1117,Female,49,57500,30,Engineer,23,1
+9,Female,31,31000,44,IT,11,3
+742,Male,29,70000,60,Finance,4,5
+313,Female,47,67500,68,Sales & Marketing,19,2
+425,Male,29,59000,61,Engineer,4,4
+34,Female,30,61000,67,Finance,8,3
+940,Male,42,60000,64,Engineer,12,5
+1102,Female,42,36500,38,Skilled Trades,12,2
+1450,Male,63,14000,51,Retired,38,3
+1056,Male,61,55000,42,Healthcare,29,5
+1681,Male,28,67500,52,Finance,1,1
+1313,Male,62,51000,59,Engineer,26,2
+600,Male,22,58500,72,IT,1,5
+1725, Male,2,43500,30,Retired,43,2
+1926,Male,22,7000,55,Student,0,1
+1312,Male,44,66500,56,Education,6,5
+1090,Female,28,49500,64,Education,5,4
+462,Female,36,64500,68,Engineer,16,1
+1885,Male,38,45000,63,Healthcare,8,2
+988,Female,53,80000,29,Healthcare,27,3
+776,Female,56,49500,67,Healthcare,28,4
+864,Female,22,58000,95,Engineer,0,2
+562,Female,34,67500,57,Engineer,7,3
+974,Male,42,56000,68,Skilled Trades,11,2
+1732,Male,32,62000,71,Education,11,4
+1719,Male,63,40500,65,Retired,36,6
+411,Female,57,56000,46,IT,23,2
+563,Male,40,40500,52,Skilled Trades,16,1
+38,Female,22,42500,88,Education,2,2
+1864,Female,30,80500,31,Engineer,0,1
+1129,Female,42,122000,80,Executive,15,4
+1020,Female,34,37500,80,Skilled Trades,7,2
+715,Female,44,56000,56,Sales & Marketing,16,2
+1919,Male,45,46500,32,Healthcare,19,4
+666,Female,31,54500,57,Finance,4,2
+477,Male,50,69500,65,Finance,26,4
+1052,Male,21,15000,87,Student,0,1
+332,Female,39,44000,36,Healthcare,12,1
+511,Female,32,33500,73,Skilled Trades,5,4
+297,Male,46,103500,35,,18,1
+575,Female,53,60000,54,IT,21,1
+1291,Female,59,58500,46,Sales & Marketing,31,4
+1504,Male,30,29000,58,Healthcare,7,6
+410,Male,47,33000,42,Skilled Trades,19,2
+1785,Male,49,55000,44,Finance,17,1
+131,Male,52,79000,35,Sales & Marketing,17,2
+1223,Male,49,54000,52,Sales & Marketing,22,1
+1560,Male,38,56000,41,Healthcare,18,4
+278,Female,44,27500,78,Sales & Marketing,16,6
+632,Female,50,72000,75,Engineer,25,1
+1401,Female,59,40500,41,Skilled Trades,31,3
+1089,Male,44,40500,56,Skilled Trades,18,3
+1910,Male,66,27500,25,Sales & Marketing,30,1
+990,Female,44,57000,57,Healthcare,16,4
+1870,Male,45,30000,54,Skilled Trades,19,2
+1011,Male,27,77000,56,Engineer,0,2
+1352,Female,37,38000,29,Sales & Marketing,16,3
+1095,Male,27,57000,94,Healthcare,2,1
+821,Female,31,45500,70,Healthcare,4,3
+579,Male,43,50500,54,Skilled Trades,19,1
+1586,Female,24,49500,47,Sales & Marketing,4,1
+456,Male,23,32500,42,Healthcare,1,4
+1999,Female,42,49500,62,Sales & Marketing,10,2
+849,Female,79,29000,14,Retired,48,2
+685,Male,53,84000,63,IT,24,4
+1705,Female,60,33000,47,Education,22,3
+996,Male,82,30000,57,,48,1
+1850,Female,36,50500,61,Engineer,9,2
+1624,Male,38,113500,90,Finance,11,1
+731, Male,18,8500,78,Student,0,1
+1890,Male,45,67500,47,IT,15,4
+489,Male,47,55500,56,Engineer,17,6
+1603,Male,59,45500,65,Skilled Trades,27,2
+746,Male,41,71500,48,Healthcare,6,4
+942,Male,33,70500,57,Healthcare,12,2
+1752,Male,22,56500,86,Engineer,2,3
+289,Male,34,67000,77,Finance,10,5
+1024,Female,38,35000,61,Healthcare,11,1
+960,Female,31,75500,28,Finance,0,2
+1778,Male,40,41500,77,Sales & Marketing,8,2
+1809,Male,43,33500,52,Engineer,16,2
+319,Male,38,25000,52,Skilled Trades,8,2
+21,Male,80,28000,5,Retired,48,2
+909,Male,24,10000,43,Student,0,1
+1508,Female,37,36500,61,Sales & Marketing,8,1
+1669,Female,47,42500,50,Sales & Marketing,8,2
+78,Male,40,61500,50,Education,15,1
+1459,Male,49,47000,30,Healthcare,22,2
+424,Male,44,60000,63,Education,14,1
+1133,Female,27,60500,88,Sales & Marketing,7,4
+1609,Male,45,39500,46,Education,13,2
+619,Female,38,68500,73,Sales & Marketing,16,6
+1049,Female,43,43500,61,Skilled Trades,21,4
+203,Female,30,46500,75,,9,4
+193,Female,26,81500,61,Engineer,0,4
+765,Male,27,68500,70,Sales & Marketing,4,2
+215,Female,38,38500,70,Education,10,1
+1612,Female,37,71500,66,IT,13,3
+877,Female,29,76000,43,IT,0,1
+1918,Male,52,48000,40,Engineer,20,2
+1449,Female,22,101000,72,Finance,0,2
+380,Male,52,24000,43,IT,22,2
+440,Male,48,44500,45,Skilled Trades,10,4
+1142,Female,48,43500,48,Skilled Trades,22,4
+1442,Female,47,28500,83,Healthcare,20,2
+92,Female,39,64500,78,Engineer,14,2
+534,Male,55,47500,56,Healthcare,20,2
+304,Female,42,35500,58,Education,12,1
+1837,Male,41,54000,59,Sales & Marketing,18,5
+1490,Female,82,21500,9,Retired,48,1
+1711,Male,19,11000,56,Student,0,1
+486,Male,29,78500,52,IT,0,3
+1606,Female,64,31500,55,Retired,35,2
+1348,Male,43,99500,67,Finance,23,3
+633,Female,34,61000,86,Finance,5,4
+1805,Male,70,33000,40,Retired,43,2
+23,Male,59,50500,48,Education,27,1
+20,Male,40,140500,90,Executive,11,1
+933,Male,38,60500,76,Engineer,12,1
+1014,Female,70,39000,39,Retired,47,5
+1873,Male,52,83000,35,Finance,18,3
+955,Male,58,35500,52,Education,27,2
+648,Female,57,66000,39,Engineer,20,2
+1013,Female,53,59500,65,Engineer,20,2
+51,Female,34,47500,63,Healthcare,8,5
+1672,Male,27,15000,59,Student,0,1
+1680,Female,73,35500,27,Retired,47,5
+464,Female,42,60000,59,Skilled Trades,11,4
+576,Male,31,54500,79,Sales & Marketing,9,2
+1987,Male,45,92500,83,IT,13,2
+992,Female,41,45500,76,Healthcare,17,1
+899,Female,35,60500,70,Finance,11,2
+1686,Male,32,49500,76,Finance,5,2
+829,Female,51,99000,68,Executive,25,2
+58,Male,82,32000,6,Retired,48,4
+1925,Male,78,49500,44,Retired,48,3
+551,Female,34,56000,87,Sales & Marketing,12,1
+967,Male ,44,67500,65,IT,9,6
+1753,FEMALE,30,58500,68,IT,10,5
+1771,Female,40,48000,49,Finance,15,2
+29,Female,70,35000,40,Retired,45,4
+310,Male,77,33500,36,Retired,48,1
+454,Male,53,21500,32,Skilled Trades,15,4
+1255,Male,32,76500,78,IT,3,5
+1561,Male,34,52500,78,Sales & Marketing,2,2
+305,Female,51,36500,45,Sales & Marketing,16,4
+710,Female,57,59000,47,Engineer,23,2
+2,Male,46,50500,73,Education,17,3
+225,Male,35,46000,40,,6,5
+656,Male,40,41000,62,Healthcare,13,4
+669,Male,45,68000,46,IT,14,1
+824,F,32,45000,91,Healthcare,9,2
+481,Female,30,74000,87,,10,1
+1383,Female,37,71000,50,IT,17,2
+1484,Female,39,47000,68,IT,10,2
+1761,Female,36,90500,19,Healthcare,6,2
+171,Male,53,36000,46,Skilled Trades,25,6
+1610,Male,54,64000,57,Sales & Marketing,16,1
+1297,Female,27,37000,75,Education,6,2
+1631,Female,40,45500,60,Skilled Trades,11,4
+1330,Female,44,72500,80,IT,14,2
+1184,Male,71,37500,31,Retired,42,4
+1302,Male,66,16500,38,Retired,40,1
+1131,Female,24,11500,74,Student,0,1
+693,Female,33,48000,63,Sales & Marketing,2,1
+806,Male,36,53500,45,Sales & Marketing,8,3
+445,Female,30,46500,92,Healthcare,7,3
+1900,Female,22,17000,59,Student,0,1
+1574,Male ,27,14000,55,Student,0,1
+389,Male,66,39500,25,Skilled Trades,29,1
+1360,Female,19,6000,58,Student,0,1
+758,Male,20,13500,81,Student,0,1
+1576,Male,42,36500,45,Skilled Trades,12,2
+1067,Female,68,23500,27,Retired,46,2
+1858,Male,40,65500,78,Finance,19,3
+345,Male,46,71500,66,IT,17,2
+1821,Male,72,16000,15,Retired,48,1
+1270,Female,76,34500,45,Retired,48,4
+1831,Male,39,37000,43,Skilled Trades,11,3
+458,Female,53,45500,61,Healthcare,29,2
+1898,Female,24,21500,90,Student,0,1
+1284,Female,40,76500,93,Sales & Marketing,9,5
+1563,Female,53,50000,57,Skilled Trades,18,1
+1071,Male,35,46000,78,Engineer,4,4
+121,Female,18,9000,58,Student,0,1
+1474,Male,52,92000,62,Engineer,17,1
+1896,Female,43,32500,62,Healthcare,15,5
+616,Female,61,140500,47,Executive,32,2
+300,Male,38,50500,62,Healthcare,13,2
+168,Male,55,49000,47,Skilled Trades,20,4
+1438,Female,27,7500,48,Student,0,1
+1602,Male,45,66000,71,Engineer,11,1
+1361,Female,33,74500,84,Executive,5,4
+1657,Female,41,85500,96,Engineer,9,3
+1547,Female,69,18000,12,Retired,39,3
+522,Male,24,17500,77,,0,1
+868,Female,34,38000,79,Skilled Trades,0,2
+839,Female,26,16000,46,Student,0,1
+1614,Male,79,21500,32,Retired,48,5
+1516,Female,43,57000,60,Engineer,13,1
+484,Female,39,70000,77,Engineer,11,3
+1324,Female,59,40500,15,Skilled Trades,29,1
+1784,Male,55,47500,63,Healthcare,23,4
+96,Male,45,64000,57,Finance,11,1
+1210,Female,48,61500,54,IT,23,6
+1337,Female,20,8500,42,Student,0,2
+1420,Male,44,52000,52,Engineer,17,2
+791,Male,33,63000,78,Engineer,11,2
+1038,Female,47,40000,72,Skilled Trades,21,3
+102,Male,71,14000,18,Retired,47,2
+1336,Male,20,22500,64,Student,0,1
+1779,Male,26,71500,92,Skilled Trades,4,1
+1989,Male,53,50000,26,IT,21,2
+1626,Female,35,79000,50,Finance,3,1
+719,Female,47,52000,49,Sales & Marketing,19,2
+1797,Male,35,75000,60,Healthcare,12,3
+1374,Male,31,55500,63,Education,11,2
+1622,Male,37,65000,79,IT,11,3
+721,Female,22,71500,91,Engineer,0,3
+1585,Male,40,45500,36,Skilled Trades,5,2
+853,Male,22,87500,94,IT,0,4
+28,Female,50,54500,69,Finance,30,4
+1671,Male,38,38000,40,Education,13,1
+1623,Female,73,17000,6,Retired,48,1
+124,Male,26,16000,52,Student,0,1
+446,Female,37,43000,65,Skilled Trades,14,1
+1050,Male,80,25000,23,Retired,48,2
+1451,Female,34,55500,66,Sales & Marketing,6,3
+233,Female,55,52000,37,Finance,23,2
+343,Female,54,51500,70,Healthcare,18,2
+1933,Male,35,59000,70,Healthcare,0,5
+423,Female,42,64500,63,Finance,19,3
+317,Male,37,40000,72,Education,12,2
+73,Female,46,49000,59,Skilled Trades,15,1
+561,Female,36,58000,75,Sales & Marketing,16,2
+1399,Female,67,21500,60,Retired,44,3
+1308,Female,38,64500,70,Sales & Marketing,14,1
+772,Female,35,85500,49,Executive,5,1
+195,Male,34,71500,67,IT,10,3
+70,Male,33,42500,63,Engineer,11,1
+248,Male,35,153000,49,Executive,7,2
+884,Male,39,60000,62,Skilled Trades,14,2
+1996,Male,56,34500,32,Healthcare,21,5
+288,Male,47,44500,42,Finance,17,1
+186,Male,52,46000,17,Skilled Trades,18,3
+466,Male,49,69500,56,IT,15,2
+1072,Female,41,90000,46,Engineer,17,2
+1579,Male,53,55500,65,Skilled Trades,25,4
+451,Female,43,54500,68,Education,12,3
+1419,Female,63,22000,45,Retired,36,3
+180,Male,36,48500,90,Healthcare,3,3
+1993,Female,71,16000,24,Retired,46,3
+1788,Male,36,67000,61,Sales & Marketing,9,3
+234,Female,39,63500,69,Healthcare,7,4
+1055,Male,36,43000,75,Sales & Marketing,10,4
+1017,Male,45,55000,52,Sales & Marketing,17,3
+1196,Female,49,34500,47,Skilled Trades,16,2
+266,Male,49,51000,35,IT,16,2
+207,Male,56,48500,63,IT,25,4
+618,Male,68,38500,34,Retired,38,3
+578,Female,59,34000,43,Skilled Trades,22,2
+1205,Female,40,43500,50,Sales & Marketing,14,2
+683,Female,38,41000,39,Skilled Trades,9,6
+13,Female,41,74000,69,Engineer,13,3
+177,Male,31,70000,71,IT,3,2
+895,Male,24,15000,53,Student,0,1
+1193,Male,61,71500,44,IT,25,1
+1991,Female,75,42000,20,Retired,48,3
+959,Female,45,55000,61,Finance,18,4
+1236,Male,38,36000,60,Skilled Trades,12,3
+1492,Female,35,73000,63,Engineer,5,2
+1153,Male,37,42500,61,Sales & Marketing,14,2
+213,Male,41,65000,63,Healthcare,16,5
+1983,Female,39,61000,58,Skilled Trades,14,2
+491,Female,26,8500,72,Student,0,1
+1262,Male,53,48000,62,IT,19,3
+5,Male,48,36000,43,Education,7,2
+460,Male,39,72000,78,Engineer,15,3
+1518,Female,26,32000,67,Skilled Trades,6,2
+1499,Female,41,65500,60,Engineer,17,1
+1214,Female,24,65000,74,IT,0,1
+320,Male,19,7500,53,Student,0,1
+1507,Male,56,32000,59,Education,21,1
+1722,Male,62,74000,67,Finance,22,1
+607,Female,39,50000,75,Healthcare,11,5
+331,Male,35,51000,37,IT,8,2
+431,Male,38,86500,81,Engineer,14,1
+1001,Male,40,70000,48,Finance,10,1
+311,Male,31,65500,73,Finance,9,1
+103,Male,68,39500,24,Retired,39,5
+1977,Female,43,56500,59,Engineer,23,1
+1263,Male,44,74000,60,Engineer,19,2
+1988,Male,42,51000,60,Sales & Marketing,6,2
+1819,Female,48,59000,53,Education,15,6
+69,Female,20,6000,79,Student,0,1
+499,Male,32,49000,77,Skilled Trades,9,3
+1010,Male,27,22000,48,IT,1,2
+418,Female,35,114500,27,Executive,9,2
+665,Female,51,57500,40,Education,22,5
+569,Male,61,66500,44,Engineer,31,3
+1421,Male,51,57500,44,Engineer,21,1
+615,Male,32,68500,80,Engineer,5,2
+1340,Male,33,70000,62,Sales & Marketing,6,2
+911,Female,31,67500,69,Engineer,11,1
+859,Female,60,57500,68,Engineer,26,5
+1545,Male,44,85000,33,IT,14,4
+1880,Female,44,49500,58,Education,24,4
+872,Male,55,132000,45,Executive,20,4
+1316,Male,66,29000,36,Retired,44,1
+1738,Female,51,45000,44,Sales & Marketing,22,2
+1668,Male,44,59000,100,Education,14,4
+361,Female,37,40500,50,Skilled Trades,8,2
+1416,Male,77,27000,47,Retired,48,2
+1347,Female,34,58500,97,Sales & Marketing,4,1
+1940,Male,30,41500,65,Education,2,4
+1472,Female,59,39500,29,Skilled Trades,24,3
+67,Female,22,66500,97,Sales & Marketing,0,2
+4,Male,46,71500,69,Healthcare,19,2
+1548,Female,55,47000,78,Skilled Trades,25,2
+1455,Male,31,57500,70,Healthcare,11,4
+212,Female,63,37500,25,Retired,35,5
+1836,Female,36,72500,85,Executive,14,4
+1113,Female,25,51500,75,Education,3,4
+1855,Female,27,16000,54,Student,0,1
+226,Female,44,55500,50,Healthcare,16,2
+1359,Male,28,37500,75,Skilled Trades,6,1
+936,Male,47,82000,39,Engineer,14,5
+1682,Female,20,6500,41,Student,0,1
+1674,Female,119,61500,88,Executive,11,2
+217,Male,47,70500,57,Finance,18,2
+1342,Female,35,47000,68,Engineer,15,4
+354,Female,27,77000,83,Engineer,0,1
+1376,Female,43,55000,55,IT,10,3
+256,Female,66,81500,49,Sales & Marketing,28,3
+74,Female,46,59500,67,Sales & Marketing,22,4
+1687,Female,30,37500,64,Skilled Trades,0,4
+367,Female,31,62500,86,Sales & Marketing,10,6
+1211,Female,31,26000,79,Skilled Trades,6,3
+1616,Female,49,63500,73,Sales & Marketing,11,1
+198,Female,41,46500,59,Finance,14,6
+1349,Female,50,79000,17,,20,3
+1332,Male,33,61500,55,IT,12,2
+269,Female,63,66500,46,Sales & Marketing,33,2
+678,Male,64,29500,0,Retired,42,1
+1328,Male,52,62000,61,Healthcare,19,2
+672,Male,38,70000,83,IT,11,4
+156,Male,32,38000,65,Education,10,4
+1037,Male,19,16500,73,Student,0,2
+52,Male,56,59500,61,Healthcare,22,4
+1553,Female,44,45500,44,Healthcare,18,3
+790,Female,53,66000,28,Healthcare,14,1
+732,Male,41,71000,72,Engineer,8,3
+285,Female,48,45000,52,Sales & Marketing,18,5
+218,Male,44,27000,67,Sales & Marketing,24,3
+503,Male,67,24500,31,Retired,43,2
+513,Female,36,68500,63,Finance,7,2
+1329,Male,50,58500,66,Sales & Marketing,24,4
+1146,Female,46,45000,68,Healthcare,13,1
+1445,Female,36,80500,39,Healthcare,5,1
+1688,Female,52,33000,71,Healthcare,28,1
+989,Female,59,45500,43,Healthcare,27,3
+983,Female,31,59000,75,Education,1,3
+897,Male,31,43500,51,Skilled Trades,0,4
+1321,Female,43,50500,57,Healthcare,11,2
+71,Female,51,52500,58,Healthcare,16,4
+1303,Male,24,23000,63,Student,0,1
+1004,Female,29,55500,59,Skilled Trades,6,1
+1408,Male,71,21500,14,Retired,48,2
+1265,Male,47,52000,72,Sales & Marketing,18,6
+1677,Female,19,9500,81,Student,0,1
+1584,Female,34,57500,52,Education,14,4
+948,Male,48,64000,50,Executive,15,4
+1757,Female,19,17500,84,Student,0,2
+382,Female,42,51500,51,Skilled Trades,22,4
+611,Male,57,78500,47,Finance,22,2
+160,Female,35,40000,65,Healthcare,6,4
+1232,Female,29,55500,50,Education,2,3
+1418,Male,30,63000,86,IT,3,2
+570,Male,22,35500,93,Education,0,3
+140,Female,37,104000,30,Engineer,17,1
+649,Male,34,74000,49,Finance,6,2
+1931,Female,30,85500,86,Finance,4,3
+786,Female,40,36000,77,Engineer,15,2
+85,Male,35,57000,55,Healthcare,7,3
+1470,Male,65,99500,10,Finance,26,2
+312,Female,18,12000,80,Student,0,2
+1651,Female,22,57500,68,Finance,2,1
+515,Female ,32,48500,55,Sales & Marketing,7,1
+949,Female,46,86000,35,Engineer,20,6
+1406,Female,24,9000,48,Student,0,1
+863,Female,66,23500,42,Retired,38,2
+764,Male,34,27000,52,Healthcare,4,5
+433,Female,43,53500,42,Sales & Marketing,13,4
+348,Male,37,36500,40,IT,10,2
+975,Male,53,52500,58,Skilled Trades,26,4
+743,Female,66,57500,22,Healthcare,30,3
+1454,Male,22,11000,52,Student,0,1
+779,male,40,68000,70,Engineer,13,3
+762,Male,26,38000,62,IT,2,1
+142,Female,44,152500,66,Executive,16,2
+1197,Female,20,21500,100,Student,0,1
+813,Male,41,81000,25,IT,20,1
+730,Female,66,31500,27,Skilled Trades,26,2
+453,Male,31,41500,64,Skilled Trades,0,6
+1110,Female,50,76500,21,IT,17,3
+1660,Male,27,78000,29,IT,0,1
+519,Male,43,46000,78,Healthcare,14,1
+1952,Male,69,25500,19,Retired,47,3
+60,Female,23,46500,56,Skilled Trades,3,3
+427,Male,55,58000,37,Engineer,27,6
+919,Male,55,48000,43,Education,19,1
+1549,Male,34,37500,51,Healthcare,13,2
+141,Female,25,104000,76,Engineer,2,4
+1534,Male,48,36000,61,Skilled Trades,23,1
+785,Male,45,61500,66,IT,14,2
+1204,Male,41,83000,75,Finance,14,3
+1074,Female,44,54000,50,Education,15,3
+527,Female,39,45500,61,Education,19,2
+1240,Male,62,56500,21,Sales & Marketing,24,3
+866,Male,49,40500,61,Sales & Marketing,15,6
+726,Male,54,165500,81,Executive,24,4
+1946,Male,25,40000,84,Skilled Trades,2,3
+1189,Female,62,56000,39,Sales & Marketing,26,4
+782,Female,44,41500,55,Education,18,1
+1764,Female,37,76500,41,Engineer,11,1
+1733,Female,59,85000,24,Sales & Marketing,31,2
+485,Male,73,16000,25,Retired,48,2
+705,Female,56,81500,42,IT,20,3
+1641,Female,46,67000,75,IT,9,1
+1720,Male,75,28500,31,Retired,48,3
+1546,Male,41,115500,94,Finance,14,2
+924,Male,41,78000,15,Engineer,13,1
+939,Female,32,46500,73,IT,1,4
+1108,Male,41,127000,21,Executive,13,1
+794,Female,22,80000,95,Engineer,0,2
+90,Male,57,55000,50,Skilled Trades,16,3
+802,Male,27,62000,78,Skilled Trades,6,3
+1111,Female,49,89500,91,Engineer,18,2
+1311,Female,76,37000,30,Retired,48,3
+273,Male,18,20500,67,Student,0,1
+905,Male,60,37000,42,Skilled Trades,23,1
+1431,Female,51,54000,26,Engineer,22,1
+1587,Male,44,54500,48,IT,22,2
+1170,Female,40,79000,40,Finance,18,5
+1298,Female,40,29500,58,IT,12,1
+1813,Female,34,60000,48,,11,2
+100,Male,46,52500,60,Skilled Trades,15,2
+538,Female,54,68500,60,Sales & Marketing,25,4
+1041,Female,48,40000,41,IT,23,4
+966,Male,40,51500,62,Engineer,11,4
+220,Male,45,68500,66,,17,1
+1357,Male,47,35000,52,Engineer,13,2
+178,Male,44,34000,59,Healthcare,20,2
+1257, Female,45,52500,53,IT,16,4
+1648,M,46,47500,49,IT,11,3
+208,Female,33,80500,58,Healthcare,6,1
+879,Male,64,21500,35,Retired,40,2
+1047,Female,44,55000,67,IT,12,1
+999,Male,64,43500,56,Skilled Trades,30,4
+915,Male,35,58500,51,Sales & Marketing,8,5
+1175,Female,40,59000,55,Healthcare,15,1
+334,Male,30,42000,86,Education,1,3
+1959,Male,49,68500,63,IT,18,1
+1938,Female,47,52500,61,Education,16,6
+701,Male,22,37000,59,Education,0,4
+216,Male,36,109000,47,Executive,10,4
+1264,Female,26,88500,44,Healthcare,0,2
+910,Female,38,66000,60,Engineer,15,2
+1861,Male,44,51500,68,Education,16,4
+688,Female,28,80500,78,Finance,8,2
+1397,Female,56,34500,28,Skilled Trades,12,1
+1536,Male,52,78000,52,Finance,20,4
+342,Female,34,46000,73,Skilled Trades,2,3
+1741,Male,54,38000,16,IT,27,2
+204,Male,34,86500,69,Executive,9,2
+1023,Male,48,63500,63,Engineer,12,4
+825,Male,38,82500,43,IT,6,2
+1300,Male,22,55000,88,Healthcare,0,2
+1966,Male,66,29000,24,Retired,36,4
+1217,Male,62,70000,46,Engineer,29,4
+116,Male,54,59000,38,Sales & Marketing,15,4
+986,MALE,36,44000,40,Skilled Trades,16,4
+904,Male,58,68000,66,Education,27,1
+808,Female,36,73500,68,Engineer,11,1
+123,Male,52,45500,31,Sales & Marketing,19,3
+314,Male,40,76000,55,IT,13,5
+970,Female,32,47000,56,Healthcare,12,3
+8,Female,49,40000,40,Skilled Trades,13,1
+998,Female,41,50000,72,Engineer,12,1
+1920,Female,30,45000,66,Finance,5,3
+1103,Female,58,43000,48,Education,25,4
+1195,Male,38,57500,72,Engineer,5,4
+329,Female,41,65000,68,Engineer,12,4
+1491,Female,65,41000,47,Retired,41,1
+1149,Female,48,66500,62,Finance,14,4
+1091,Male,21,17500,71,Student,0,1
+573,Female,41,39000,36,Skilled Trades,16,3
+1124,Female,19,6500,67,Student,0,1
+270,Male,45,21500,39,Skilled Trades,13,6
+1425,Female,70,6000,20,Retired,40,4
+502,male,58,54000,40,Skilled Trades,22,1
+952,Female,43,33500,38,Skilled Trades,20,4
+1921,Female,75,19000,44,Retired,48,1
+658,Female,32,73000,70,IT,7,3
+1373,Male,23,34000,77,Skilled Trades,0,1
+1099,Male,50,60500,56,Skilled Trades,27,4
+1662,Male,23,74500,75,IT,0,1
+517,Female,37,56500,59,,15,2
+229,Male,43,39500,60,Healthcare,18,2
+1079,Male,56,45500,40,IT,24,1
+1915,Male,48,64500,50,Healthcare,19,2
+1806,Female,52,57000,58,Healthcare,24,4
+543,Female,46,47500,48,Skilled Trades,12,4
+670,Female,66,51000,40,Healthcare,23,3
+1123,Female,44,56500,44,Engineer,13,4
+227,Male,42,48000,65,Healthcare,7,4
+976,Male,47,77500,28,Engineer,21,5
+1289,Female,22,15500,59,Student,0,1
+1135,female,38,41000,58,Sales & Marketing,14,4
+689,Male,51,84000,66,Engineer,27,3
+714,Male,39,52000,66,IT,11,3
+1707,Female,66,25500,41,Retired,36,1
+352,Male,69,22000,17,Retired,43,2
+1350,Female,52,86500,38,Engineer,27,4
+1526,Male,24,17500,69,Student,0,1
+811,Male,26,10000,50,Student,0,1
+716,Male,48,93500,52,Finance,11,3
+1045,Male,37,81000,53,Engineer,12,2
+1371,Female,66,61500,28,Sales & Marketing,28,5
+82,Male,32,52000,68,Healthcare,3,2
+1085,Male,58,35500,52,Healthcare,18,2
+1571,Female,63,39500,36,Skilled Trades,22,3
+941,Female,78,39500,7,Retired,48,1
+962,Male,53,93000,57,Finance,17,4
+106,Male,49,41000,37,Education,17,1
+931,Male,41,59500,64,Sales & Marketing,14,1
+837,Male,25,42500,71,Skilled Trades,0,3
+1179,Male,49,58500,43,Healthcare,18,1
+228,Female,41,63500,56,Sales & Marketing,15,1
+401,Female,46,61500,86,Healthcare,18,4
+1594,Male,72,39000,49,Retired,45,2
+590,Female,38,65500,57,Executive,3,1
+1930,Male,21,10500,66,Student,0,1
+1424,Female,75,37500,28,Retired,48,2
+650,Female,44,41500,56,Healthcare,17,3
+1403,Female,47,46000,55,Healthcare,16,4
+654,Female,66,30500,33,Education,34,2
+1902,Female,22,39500,100,Healthcare,0,1
+1877,Male,58,38500,37,Skilled Trades,24,2
+627,Female,40,81000,47,Finance,8,2
+362,Male,20,6000,39,Student,0,1
+144,Female,50,50500,63,Education,22,1
+747,Female,50,70500,66,Healthcare,19,3
+404,Male,53,32000,62,Healthcare,24,4
+1029,Female,44,44000,46,Education,19,5
+472,Female,33,36500,80,Healthcare,7,1
+902,Female,27,16000,93,Student,0,1
+1339,Male,45,62000,66,Sales & Marketing,18,4
+973,Male,45,41000,41,Education,15,2
+1643,Female,49,50000,39,Skilled Trades,16,5
+845,Female,47,57000,43,Healthcare,17,1
+384,MALE,63,30000,29,Retired,37,1
+1060,Female,75,28500,43,Retired,45,1
+181,Female,40,62000,56,Engineer,7,2
+760,Male,34,48500,76,,14,2
+1923,Female,44,62500,57,Finance,12,5
+1485,Male,48,69000,56,Healthcare,14,1
+128,Female,22,45500,76,Skilled Trades,2,1
+1911,Female,35,79000,12,Engineer,6,2
+32,Female,45,47500,55,Sales & Marketing,17,1
+745,Male,53,59000,44,Healthcare,23,1
+583,Male,66,84500,49,Engineer,30,4
+984,Female,25,69000,78,Education,5,3
+1390,Female,22,96500,86,IT,2,5
+1664,Male,25,14000,53,Student,0,2
+1411,Male,77,29000,23,Retired,48,5
+391,Male,40,103000,26,Executive,14,1
+1654,Female,47,56000,43,Healthcare,13,4
+370,Female,45,62500,45,Sales & Marketing,23,3
+1747,Female,24,42500,80,Education,3,2
+1164, Female,35,26000,52,Sales & Marketing,3,4
+1466,Male,57,54500,45,Healthcare,24,4
+713,Male,62,88500,13,IT,26,3
+1709,Male,57,39500,49,Skilled Trades,27,1
+378,Male,68,40000,26,Retired,38,4
+244,Male,22,35000,72,Sales & Marketing,0,5
+1751,Male,32,67500,75,Education,3,1
+1997,Male,54,68000,65,Engineer,30,1
+191,Male,61,71500,57,Executive,23,2
+744,Female,29,44000,58,Education,3,4
+409,FEMALE,40,63000,61,Healthcare,11,1
+1046,Male,45,56000,58,Finance,17,2
+537,Male,31,65500,84,Healthcare,4,2
+1031,Female,29,51000,58,Education,9,5
+1957,Female,82,11500,13,Retired,48,2
+763,Male,54,45000,48,Skilled Trades,22,1
+1112,Female,20,16000,69,Student,0,1
+1082,Female,47,68000,57,IT,23,2
+506,Male,42,55000,70,IT,13,4
+781,Female,55,62500,54,Finance,25,2
+591,Male,53,55500,72,Sales & Marketing,27,3
+529,Female,34,75500,73,Healthcare,1,4
+328,Male,45,91500,31,Finance,11,3
+1601,Male,38,29500,67,Healthcare,9,3
+731, Male,18,8500,78,Student,0,1
+736,Male,27,21500,55,Student,0,1
+1620,Female,40,65500,66,Healthcare,18,3
+1636,Female,42,89000,18,Engineer,7,1
+1647,Female,48,63000,28,Sales & Marketing,19,2
+1730,Female,73,27000,22,Retired,48,2
+842,Female,39,69000,71,IT,10,2
+867,Female,41,46500,55,Skilled Trades,11,2
+840,Female,39,79500,19,Finance,10,1
+1152,Female,36,51000,64,Sales & Marketing,8,2
+926,Male,62,35500,33,Skilled Trades,24,1
+1456,Male,30,48500,65,Healthcare,3,2
+626,Female,36,41500,56,Skilled Trades,16,5
+507,Female,31,60000,75,IT,1,3
+473,Male,35,46500,48,Sales & Marketing,10,3
+1519,Male,37,70500,61,IT,4,2
+1156, Female,46,68500,77,IT,19,4
+1619,Female,24,12000,64,Student,0,1
+66,Male,24,12000,54,Student,0,1
+1028,Male,45,51000,37,Education,17,1
+80,Male,58,42000,50,Education,17,3
+1746,Female,63,37000,28,Retired,39,2
+282,Female,80,22000,24,Retired,48,1
+1338,Female,42,62000,46,Sales & Marketing,16,6
+1539,Female,48,41500,53,IT,16,2
+1430,Male,36,35000,59,Skilled Trades,12,1
+1908,M,41,80000,16,Finance,7,2
+673,Female,57,33000,49,Skilled Trades,30,2
+1346,Male,49,66000,47,Healthcare,20,2
+201,Female,22,51000,64,Education,0,4
+914,Male,50,41000,38,Skilled Trades,23,4
+1107,Male,40,35000,44,Education,19,1
+1161,Female,33,47500,80,Skilled Trades,13,4
+412,Male,81,25500,50,Retired,48,1
+922,Female,66,50500,14,Education,25,2
+1392,Male,44,52500,57,Healthcare,9,2
+1247,Male,36,54500,58,Engineer,16,1
+1776,Male,18,6000,49,Student,0,1
+94,Female,22,25500,37,Student,0,1
+1100,Female,65,38500,36,Sales & Marketing,33,2
+1453,Male,39,45500,28,Education,9,2
+712,Female,45,61000,72,Healthcare,14,1
+1275,Female,66,42500,38,Healthcare,30,4
+1253,Female,58,31500,38,Healthcare,18,1
+469,Male,47,57500,54,Education,16,4
+1192,Male,51,63500,35,Engineer,20,1
+559,Male,42,51500,62,Sales & Marketing,14,3
+642,Male,34,60000,75,Engineer,8,2
+1080,Male,45,42500,42,Sales & Marketing,12,5
+356,Female,57,57500,35,Engineer,19,1
+291,Male,54,28500,33,IT,19,1
+893,Male,24,29000,69,Student,0,2
+663,Male,43,52000,65,Education,23,2
+1793,Male,53,55000,35,Education,14,5
+887,Female,64,51000,41,Education,25,4
+567,Female,47,43000,38,Engineer,17,4
+525,Female,22,43000,65,Healthcare,0,1
+625,Male,59,34500,27,Skilled Trades,24,2
+1412,Male,58,68000,37,Engineer,30,2
+1231,Female,28,47000,69,Healthcare,0,2
+621,Female,81,32000,31,Retired,48,2
+1867,Female,24,22500,69,Student,0,1
+134,Female,34,48000,52,Finance,1,5
+664,Male,18,6000,68,Student,0,2
+1159,Male,69,29000,17,Retired,39,3
+520,Female,29,54000,88,Sales & Marketing,3,2
+1824,MALE,25,10000,59,Student,0,1
+1219,Female,19,16000,82,Student,0,1
+734,Female,20,11000,91,Student,0,1
+613,Male,46,66000,69,Engineer,16,1
+1981,Female,37,52500,65,Education,11,2
+1515,Male,38,43000,89,Education,5,3
+556,Male,35,58500,76,IT,10,1
+679,Female,35,103500,43,Finance,5,3
+1748,Female,26,44500,53,Skilled Trades,3,3
+748,Male,47,55000,53,Healthcare,19,2
+569,Male,61,66500,44,Engineer,31,3
+620,Female,38,54500,69,Education,10,4
+1381,Male,47,103000,31,Engineer,19,1
+818,Male,39,29500,74,Engineer,8,2
+339,Female,24,73000,81,Finance,0,3
+39,Male,47,49000,66,Skilled Trades,18,3
+1960,Male,29,83000,79,Engineer,0,4
+1054,Female,28,69500,86,IT,0,1
+17,Female,22,6500,67,Student,0,1
+1541,Male,42,42000,68,Skilled Trades,13,2
+1413,Male ,51,51500,63,,26,4
+296,Male,33,65500,69,Engineer,8,4
+555,Female,28,44500,83,Education,4,3
+624,Male,39,94500,53,Executive,12,3
+639,Male,38,126500,77,Executive,7,3
+441,Female,41,32500,48,Skilled Trades,17,3
+241,Female,49,61000,39,Education,13,1
+1770,Female,36,46000,44,Healthcare,12,2
+1729,Female,44,25500,51,Education,15,4
+1333,Male,39,39000,67,Engineer,11,4
+1000,Female,59,48000,64,Education,25,2
+1599,Male,27,11000,50,Student,0,1
+571,Female,35,79500,51,Finance,14,4
+41,female,36,39000,44,Skilled Trades,9,2
+609,Female,39,87000,31,Finance,17,2
+1723,Female,58,65500,56,IT,31,1
+1773,Male,52,43000,62,IT,21,4
+1002,Male,48,68500,52,Engineer,12,2
+582,Female,42,75500,52,IT,14,4
+1621,Female,28,37000,71,Skilled Trades,2,4
+143,Female,43,48000,52,Sales & Marketing,16,2
+585,Female,42,62500,60,Finance,9,5
+1847,Female,75,15000,29,Retired,48,2
+179,Female,38,57500,45,Engineer,10,5
+789,Female,38,65500,69,Engineer,8,3
+667,Female,34,76000,64,IT,12,4
+1629,Male,43,82500,43,Finance,11,5
+1032,Female,57,72500,43,Finance,24,1
+1971,Female,30,47000,100,IT,0,4
+1434,Female,22,40000,85,Sales & Marketing,0,2
+1269,Female,45,52000,44,Healthcare,13,2
+1094,Male,35,74000,83,Finance,10,3
+1891,Male,24,24000,69,Student,0,1
+1782,Female,61,74500,44,Finance,26,3
+108,Male,48,50500,54,Engineer,12,3
+1525,Female,48,64000,50,IT,20,1
+945,Female,19,12000,55,Student,0,2
+344,Male,43,58500,54,Skilled Trades,11,3
+796,Female,41,63000,64,Sales & Marketing,6,2
+715,Female,44,56000,56,Sales & Marketing,16,2
+375,male,57,108500,75,Executive,25,3
+1916,Male,32,38000,73,Healthcare,6,5
+696,Female,33,63500,70,Sales & Marketing,12,3
+403,Male,51,27000,61,Healthcare,31,1
+89,Male,42,66000,61,IT,10,6
+164,Female,51,31000,59,Sales & Marketing,27,1
+691,Male,81,28000,43,Retired,48,2
+336,Female,49,47500,60,Sales & Marketing,19,2
+358,Female,34,59000,61,Engineer,1,6
+645,Male,50,41000,52,Skilled Trades,18,1
+1871,Male,32,49500,96,Healthcare,3,2
+1790,Female,52,44000,61,Education,20,4
+965,Female,50,36500,33,Sales & Marketing,23,4
+1945,Female,50,60000,58,Engineer,20,1
+675,Female,35,104500,33,Engineer,3,4
+1344,Male,57,58000,44,IT,32,3
+148,Male,45,57000,46,Healthcare,12,3
+1363,Female,59,38500,23,Healthcare,37,1
+386,Male,22,59500,79,Skilled Trades,1,1
+1138,Male,27,19000,49,Healthcare,3,3
+783,Female,63,29500,37,Education,24,3
+374,Male,24,51500,93,Healthcare,0,4
+1954,Female,53,33500,59,Skilled Trades,21,3
+812,Male,35,39000,57,Sales & Marketing,4,3
+1220,Female,33,53000,63,Healthcare,4,3
+1749,Female,43,40500,57,Skilled Trades,22,1
+827,Male,49,90500,37,,17,1
+1718,Female,27,44000,66,Skilled Trades,2,2
+531,Female,59,88000,10,IT,21,1
+1059,Female,39,66500,51,Engineer,10,1
+1186,Female,43,70000,70,Healthcare,15,1
+1238,Male,49,86500,4,IT,18,2
+882,Female,49,54000,62,Finance,17,3
+918,Female,44,61000,41,Healthcare,18,4
+1206,Female,49,67000,60,IT,21,4
+717,Male,47,71000,55,Healthcare,18,5
+1894,MALE,36,73500,42,IT,7,2
+465,Male,41,50000,68,Education,19,2
+122,Female,51,30500,70,Sales & Marketing,17,1
+1208,Male,22,32000,97,Education,0,4
+413,Male,82,32000,24,Retired,48,1
+1575,Male,42,81000,40,IT,13,3
+652,Male,33,35000,72,Healthcare,10,3
+737,Male,43,64000,62,Healthcare,19,4
+558,Male,32,51500,97,Engineer,0,3
+1222,Female,34,73000,99,IT,6,3
+720,Male,32,31500,52,Skilled Trades,10,1
+805,Male,52,43500,52,Healthcare,19,2
+505,Female,24,16500,49,Student,0,1
+1791,Female,23,15500,48,Student,0,1
+1678,Male,33,76500,79,Healthcare,11,3
+461,Female,20,10000,60,Student,0,1
+1119,Male,41,53500,37,Sales & Marketing,7,2
+964,Female,44,54500,62,Skilled Trades,10,2
+235,Male,50,75500,20,Engineer,24,2
+347,Female,42,53500,63,Engineer,17,3
+30,Male,71,26500,21,Retired,45,2
+1972,Female,25,21500,59,Student,0,1
+1740,Male,45,66500,40,Finance,11,2
+1745,Female,38,71500,55,Engineer,16,1
+1775,Male,50,48500,48,Education,19,1
+1335,Male,52,34000,64,Skilled Trades,23,1
+1496,Female,37,83500,17,IT,4,4
+869,Male,42,63000,46,Education,6,1
+1505,Female,52,49000,35,Sales & Marketing,24,1
+898,Female,43,32500,66,Skilled Trades,16,3
+1034,Female,42,53500,65,Healthcare,17,1
+553,Male,53,98000,53,IT,17,1
+1763,Male,31,56000,50,Skilled Trades,10,2
+896,Female,23,69500,52,Sales & Marketing,0,4
+1301,Male,65,58500,52,Finance,30,4
+847,Female,32,64500,65,Healthcare,1,3
+888,Male,69,13500,36,Retired,43,2
+437,Male,53,46500,62,Skilled Trades,21,2
+1750,Male,48,47000,61,Healthcare,19,4
+1130,Female,48,64000,72,,13,2
+1145,Male,22,55500,52,Skilled Trades,0,1
+622,Female,45,32500,63,Skilled Trades,25,4
+704,Male,23,22000,64,Student,0,1
+749,Male,42,52500,53,Skilled Trades,12,4
+804,Female,70,24000,27,Retired,45,4
+979,Male,50,97000,50,Executive,19,2
+1436,Male,33,98000,77,Engineer,3,5
+753,Male,76,19500,25,Retired,48,2
+1859,Female,62,52500,40,Finance,29,1
+560,Male,61,60500,35,Healthcare,19,4
+587,Male,58,52500,51,Healthcare,23,2
+176,Female,49,40000,50,Finance,20,3
+430,Female,40,68000,88,Engineer,10,6
+1883,Male,43,84500,34,Engineer,19,6
+1833,Male,29,37000,59,Healthcare,7,4
+1892,Female,32,42500,64,Skilled Trades,1,4
+199,Female,43,50000,57,Healthcare,9,4
+1062,Male,50,58500,46,Healthcare,18,4
+1003,Male,5,33500,54,Sales & Marketing,16,4
+1882,Female,30,79000,62,IT,6,6
+848,Female,41,46500,59,Sales & Marketing,3,1
+550,Female,46,77000,56,IT,16,2
+604,Male,46,79000,42,Sales & Marketing,24,3
+1658,Female,50,51000,82,Skilled Trades,25,6
+916,Male,46,76000,27,Engineer,19,3
+1702,Female,18,6500,60,Student,0,1
+1765,Female,60,84000,52,Executive,27,1
+1970,Female,40,83000,71,Engineer,6,2
+655,Female,36,100000,77,Engineer,13,5
+166,Female,33,90000,21,Engineer,2,5
+854,Female,54,63500,62,IT,25,3
+15,Male,33,37500,73,Skilled Trades,6,3
+1509,Male,22,42500,49,IT,0,1
+1315,Male,38,65000,72,,7,4
+938,Female,46,74500,44,Engineer,19,1
+1739,Female,75,48500,24,Retired,48,4
+526,Male,29,33000,70,Skilled Trades,1,1
+1427,Female,55,62000,38,Healthcare,12,2
+512,Female,65,28000,43,Retired,35,1
+1354,Male,50,45000,50,Skilled Trades,21,3
+1277,Male,33,90000,34,Finance,0,1
+1852,Male,51,76000,33,IT,22,4
+1915,Male,48,64500,50,Healthcare,19,2
+1404,Male,39,38500,55,Skilled Trades,8,1
+950,Female,52,54500,72,Sales & Marketing,20,1
+1874,Male,72,24500,19,Retired,45,5
+548,Male,24,77500,40,Sales & Marketing,0,4
+482,Male,52,59000,48,Engineer,17,3
+408,Female,31,81000,25,Engineer,11,1
+105,Female,66,65500,32,Finance,34,6
+852,Male,48,58500,50,Healthcare,15,6
+257,Male,25,12000,85,Student,0,1
+699,Female ,61,32500,34,Healthcare,25,1
+1278,Male,35,49500,68,Healthcare,6,3
+1395,Male,31,47500,77,Skilled Trades,9,4
+243,Female,45,31500,37,Finance,20,1
+1600,Female,38,62000,69,,3,2
+1185,Female,32,80500,38,Sales & Marketing,3,2
+283,Male,74,36000,43,Retired,48,1
+1382,Male,42,64000,83,Sales & Marketing,11,3
+1639,Female,22,20000,80,Student,0,1
+838,Female,40,41000,64,Healthcare,12,5
+997,Male,41,70000,64,Healthcare,20,1
+45,Male,20,14500,64,Student,0,1
+1261,Female,36,42000,69,Skilled Trades,12,3
+1179,Male,49,58500,43,Healthcare,18,1
+1649,Female,40,57500,63,Skilled Trades,11,3
+1963,Female,63,46500,39,Retired,37,1
+145,Female,44,37000,64,Sales & Marketing,19,5
+49,Male,47,38000,57,Skilled Trades,25,2
+1666,Male,22,19000,48,Student,0,1
+346,Female,57,71500,69,Education,23,5
+1676,Female,43,45000,69,IT,12,2
+542,Female,30,70500,73,Finance,0,4
+629,Male,53,53500,49,IT,15,1
+1903,Female,45,88500,7,Engineer,20,1
+153,Female,52,30000,21,Skilled Trades,25,5
+1295,Female,28,76500,47,Sales & Marketing,0,1
+447,Male,23,61000,79,Sales & Marketing,2,4
+1235,Male,43,59500,86,IT,21,3
+249,Male,32,49500,64,Education,4,4
+771,Female,63,26000,38,Retired,41,2
+1058,Female,32,78000,64,,2,3
+1016,Male,21,9000,62,Student,0,1
+1965,Male,32,71500,76,Engineer,8,5
+1522,Male,46,27500,52,Finance,16,2
+651,Female,29,49000,67,Sales & Marketing,2,3
+488,Male,66,41000,51,Sales & Marketing,29,4
+1808,Female,33,48500,73,IT,13,2
+449,Male,32,57000,80,,0,2
+231,Female,51,63000,58,Sales & Marketing,17,3
+1715,Female,46,49000,53,Education,11,1
+1,Female,50,51000,74,Education,20,3
+335,Female,81,34000,35,Retired,48,2
+161,Female,54,63500,44,Healthcare,18,2
+209,Female,67,42000,22,Retired,38,1
+1141,Female,21,15500,87,Student,0,1
+1627,Female,48,98500,16,IT,17,6
+1444,Female,64,54500,41,Education,26,2
+951,Male,39,120000,95,Executive,12,2
+163,Female,51,61500,58,Healthcare,18,3
+957,Male,63,30000,43,Retired,36,2
+1314,Female,43,41500,45,Skilled Trades,21,2
+822,Female,23,53000,87,Engineer,0,3
+707,Female,49,53500,63,Healthcare,22,4
+415,Female,24,73000,83,Engineer,4,2
+1953,Male,41,111000,39,Executive,5,2
+733,Male,35,76500,77,Finance,10,3
+1716,Female,48,99000,47,Executive,14,2
+1986,Female,37,84000,50,IT,7,1
+183,Female,51,56000,50,Sales & Marketing,23,4
+476,Female,53,73500,50,IT,21,2
+930,Female,52,60500,59,Finance,22,5
+416,Male,24,48500,59,Healthcare,0,4
+1475,Male,51,33500,53,Sales & Marketing,24,2
+400,Male,74,23000,31,Retired,47,5
+138,Male,38,31000,37,Education,6,3
+539,Female,45,48500,57,Healthcare,16,2
+1786,Male,37,41000,58,Skilled Trades,5,1
+1531,Female,41,51500,52,Healthcare,10,1
+540,Male,25,89500,85,Executive,2,2
+137,Male,37,52000,58,Healthcare,12,2
+330,Female,32,50500,73,Sales & Marketing,3,4
+1307,Male,43,45500,59,Healthcare,14,2
+788,Female,39,47000,34,,11,2
+972,Male,43,117500,25,Executive,15,4
+1008,Female,39,84000,77,Engineer,13,4
+1734,Female,40,46000,48,Skilled Trades,17,1
+40,Male,41,87500,37,Sales & Marketing,18,4
+1168,Male,55,65000,38,Skilled Trades,24,2
+281,Male,42,38000,47,Healthcare,15,3
+1365,Male,43,85500,31,Finance,13,2
+844,Female,212,72000,71,Engineer,10,1
+1656,Male,65,33000,28,Healthcare,33,1
+1820,Male,42,68000,64,Engineer,15,1
+1906,Female,23,16000,65,Student,0,1
+120,Male,33,40500,73,Skilled Trades,8,3
+333,Male,31,104500,49,Executive,6,3
+1134,Female,29,75500,68,Education,9,3
+577,Male,55,41500,25,Skilled Trades,23,5
+907,Female,44,48500,54,Skilled Trades,15,6
+903,Male,25,16500,82,Student,0,1
+1015,Male,51,58000,39,Education,22,4
+1767,Male,41,36500,53,Skilled Trades,14,3
+554,Female,69,6000,36,Retired,40,1
+1562,Female,49,53000,55,IT,26,4
+1198,Male,49,57500,47,IT,19,5
+1271,Male,34,51000,99,Engineer,3,5
+1848,Female,39,46000,53,Engineer,15,4
+295,Male,34,39000,64,Education,3,1
+1538,Male,29,70000,83,Sales & Marketing,7,5
+908,Female,50,45000,38,Education,17,1
+1889,Male,58,52000,57,Healthcare,17,4
+1596,Female,50,77500,16,Sales & Marketing,18,4
+363,Female,60,110500,58,Executive,32,2
+1215,Male,39,95000,83,Executive,14,2
+929,Male,36,29500,55,Education,4,1
+112,Male,50,54000,50,Healthcare,16,1
+1679,Female,49,50000,65,IT,16,2
+1166,Male,43,56000,59,Sales & Marketing,12,1
+601,Male,42,62000,88,Sales & Marketing,13,3
+1804,Female,38,41500,63,Skilled Trades,6,5
+1899,Female,55,43500,47,Education,22,3
+115,Female,41,46000,47,Engineer,14,3
+1296,Female,22,79000,32,IT,0,1
+1670,Male,49,28000,45,Education,17,4
+136,Female,25,53000,67,Education,0,1
+1554,Male,41,46000,31,Skilled Trades,19,3
+1755,Female,43,35000,53,Sales & Marketing,18,2
+1437,Female,30,42500,72,Skilled Trades,0,3
+1343,Female,56,55000,36,Healthcare,22,1
+1772,Female,43,71500,54,IT,4,3
+154,Male,82,39000,32,Retired,48,1
+414,Male,33,68500,53,IT,6,3
+1032,Female,57,72500,43,Finance,24,1
+793,Male,49,55000,54,Engineer,24,4
+240,Female,40,63000,61,Education,17,2
+1754,Male,49,57500,48,Education,18,2
+129,Female,49,60500,40,,15,2
+1493,Female,59,44000,39,Sales & Marketing,28,2
+801,Male,40,36000,50,Skilled Trades,9,1
+1256,Male,44,62000,57,IT,16,3
+1053,Male,23,47000,80,Skilled Trades,0,4
+14,Female,30,40500,36,Healthcare,3,2
+3,MALE,25,49000,72,IT,5,3
+459,Female,31,57500,56,Sales & Marketing,8,3
+980,Male,24,17500,47,Student,0,1
+875,Male,29,38500,82,Skilled Trades,4,3
+1440,Female,51,36500,79,Healthcare,24,5
+1569,Female,53,66500,49,Executive,24,4
+557, Female,31,97500,90,,4,5
+1464,Female,47,61500,66,Healthcare,13,2
+637,Male,20,9500,46,Student,0,1
+1783,Female,54,65500,62,IT,22,2
+1684,Female,49,90000,22,IT,29,1
+1109,Male,57,77000,13,Engineer,18,4
+817,Female,75,28000,19,Retired,46,5
+547,Female,32,48500,78,Sales & Marketing,3,4
+394,Female,31,135000,75,Executive,3,2
+1572,Female,43,66000,39,Finance,17,4
+247,Male,32,76500,46,Sales & Marketing,4,2
+690,Female,46,55000,57,Healthcare,19,2
+643,Female,36,131000,80,Executive,12,5
+1288,male,37,57500,50,Sales & Marketing,11,3
+1226,Female,22,21500,57,Student,0,1
+299,Male,44,47500,56,Healthcare,21,1
+1766,Female,37,73500,47,,12,4
+873,Female,30,57500,51,Healthcare,9,4
+987,Male,48,106000,8,Finance,20,1
+1439,Male,44,24000,47,Sales & Marketing,10,1
+31,Male,33,101500,33,IT,3,4
+1467,Male,54,60500,58,Education,22,1
+1939,Male,82,50000,36,Retired,48,4
+1448,Female,53,69500,45,Finance,15,1
+1188,Female,48,67000,59,IT,10,6
+1617,Female,34,44500,38,Skilled Trades,4,2
+784,Female,48,72000,28,Healthcare,14,2
+1128,Male,38,32500,70,Healthcare,6,3
+1834,Female,50,45500,36,Finance,18,4
+545,Female,35,48000,51,IT,10,5
+1183,Female,40,75000,72,Engineer,9,1
+1405,Female,42,42500,65,Education,22,1
+1116,Female,75,7500,26,Retired,48,4
+735,Male,54,49000,48,IT,24,1
+1888, Female,47,123000,79,Executive,15,3
+302,Male,57,40500,46,IT,23,1
+1830,Male,25,61500,62,Healthcare,4,4
+1853,Male,30,28000,69,Finance,9,2
+1912,Male,43,65000,67,Finance,12,4
+890,Male,42,67000,56,Sales & Marketing,14,2
+1160,Female,34,150000,75,Executive,0,2
+292,Female,39,46500,52,IT,16,3
+1209,Male,29,49500,72,Skilled Trades,4,4
+1286,male,66,42000,74,Healthcare,31,1
+706,Female,42,71000,61,Sales & Marketing,16,2
+1417,Female,37,62000,63,Engineer,9,1
+584,Male,32,75500,23,Healthcare,10,2
+36,Male,66,71000,50,,33,2
+1506,Female,52,48000,59,Skilled Trades,20,2
+284,Female,24,34000,89,Skilled Trades,3,4
+1341,Male,35,64500,45,Healthcare,4,4
+500,Male,33,50500,56,Finance,3,2
+1828,Female,34,64000,67,Engineer,14,2
+668,Female,58,97500,61,Finance,21,3
+1817,Female,48,47000,53,Sales & Marketing,14,1
+1364,Male,43,84000,31,Engineer,21,2
+468,Female,75,30500,30,Retired,48,1
+1151,Female,54,56000,53,IT,20,3
+634,Female,29,109000,76,Executive,6,1
+1992,Female,70,31500,31,Retired,45,4
+357,Male,29,78500,25,Finance,5,1
+1810,Male,40,42500,43,Skilled Trades,13,3
+1781,Female,53,95000,25,Finance,20,1
+856,Male,73,35000,43,Retired,45,1
+937,Male,47,36500,21,Healthcare,13,3
+1976,Female,36,40000,57,Skilled Trades,7,3
+816,Female,47,55000,72,Education,17,2
+1607,Female,40,60500,68,Engineer,10,2
+969,Female,37,104000,90,Finance,9,6
+1143,Male,48,66500,70,Engineer,28,3
+1544,Female,82,30500,35,Retired,48,3
+836,Male,56,53500,62,Education,26,2
+113,Male,25,6000,45,Student,0,1
+1147,Female,48,51500,54,Engineer,15,2
+1155,Female,51,68500,58,Sales & Marketing,19,3
+828,Female,36,44000,50,Skilled Trades,7,1
+1320,Male,57,44500,31,Education,20,2
+1489,Male,46,69000,62,Healthcare,21,3
+1512,Male,46,59500,92,Finance,20,2
+457,Male,33,51000,42,Education,10,4
+1443,Female,71,16500,35,Retired,41,4
+222,Female,57,62000,66,Engineer,29,2
+1769,Female,41,57500,69,IT,7,1
+1949,Male,28,58000,77,Education,3,2
+1385,Male,51,70000,62,Engineer,25,2
+1167,Male,39,88000,61,Sales & Marketing,9,4
+1947,Female,69,25500,21,Retired,42,1
+1025,Female,44,24000,41,Healthcare,19,4
+1358,Female,26,37000,89,Skilled Trades,0,3
+1592,Male,45,46500,41,Education,21,1
+211,Female,74,26500,14,Retired,48,3
+1158,M,39,83500,65,Finance,13,2
+677,Male,58,28000,57,Sales & Marketing,27,1
+301,Female,27,71500,71,Education,7,5
+509,Female,75,16000,46,Retired,48,5
+1165,Male,42,44000,39,Healthcare,16,4
+787,Female,43,83000,60,Engineer,11,4
+1187,Female,31,66500,71,Finance,10,4
+1675,Female,44,41500,38,Healthcare,13,4
+1884,Female,44,87000,26,Engineer,19,2
+298,Female,33,58500,77,Healthcare,3,6
+1887,Male,52,60500,53,IT,20,1
+1728,Female,44,46000,50,Skilled Trades,12,3
+1814,Male,41,58000,65,Healthcare,13,3
+935,Male,66,84000,31,IT,30,2
+1735,Female,49,31000,55,Sales & Marketing,20,3
+1974,Female,32,96500,50,Finance,0,4
+1447,Male,66,45500,32,Retired,41,4
+608,Male,37,47000,54,Skilled Trades,5,4
+1886,Female,74,42000,26,Retired,44,3
+1173,Female,63,26500,35,Retired,36,2
+862,Female,43,53500,28,Sales & Marketing,18,4
+1174,Female,22,63000,68,Education,0,4
+1225,Male,39,45000,50,Education,10,4
+1556,Female,37,62000,77,Engineer,7,6
+340,Male,39,66500,78,Healthcare,14,4
+1194,Male,33,60500,80,Sales & Marketing,6,1
+1368,Female,57,50000,24,Healthcare,28,4
+1914,Female,25,19500,64,Student,0,2
+33,Female,42,48000,52,Skilled Trades,16,3
+373,Female,36,54000,69,Skilled Trades,16,3
+1176,Male,42,42000,63,Healthcare,7,4
+586,Male,28,69000,100,Sales & Marketing,8,3
+593,Male,41,92500,44,IT,18,2
+1642,Male,40,51000,46,IT,11,3
+1862,Female,60,77000,27,Engineer,31,3
+1157,Female,38,47500,52,Education,17,2
+1527,Male,44,73000,59,Engineer,11,1
+1040,Female,27,17500,75,Student,0,1
+98,Female,31,47000,69,Finance,4,5
+1241,Female,79,27500,36,Retired,48,2
+1345,Male,79,38500,18,Retired,48,4
+1375,Female,34,39500,65,Education,5,4
+759,Male,36,32500,49,Skilled Trades,10,4
+1488,Female,80,17000,29,Retired,48,3
+110,Male,30,50500,69,Sales & Marketing,10,6
+1683,Female,22,22000,63,Student,0,2
+1259,Male,26,70000,81,Finance,2,2
+767,Female,45,58500,59,Healthcare,13,4
+479,Female,20,7500,89,Student,0,1
+435,Male,57,31500,36,Skilled Trades,26,3
+1351,Female,38,52000,72,Skilled Trades,16,2
+1787,Female,39,75500,15,Engineer,7,2
+280,Male,33,84500,47,Engineer,4,3
+1577, Male,26,40500,77,Sales & Marketing,4,2
+1318,Male,64,29000,34,Retired,41,1
+1731,Female,18,11000,72,Student,0,1
+1704,Female,33,57000,52,IT,5,1
+612,Male,36,68500,70,IT,9,3
+702,Female,64,28000,27,Retired,37,3
+1498,Male,46,40500,51,Education,24,5
+917,Female,31,85000,77,Engineer,1,4
+1081,Male,66,30000,26,Retired,39,1
+1630,Male,150,57000,56,IT,14,4
+1136,Male,21,13000,61,Student,0,1
+623,Male,45,45000,78,Skilled Trades,14,2
+496,Male,49,50000,63,Skilled Trades,21,5
+238,Male,29,53500,64,Sales & Marketing,0,1
+1713,Male,32,86500,38,Finance,3,2
+595,Male,72,21500,24,Retired,43,4
+1422,Female,23,10000,57,Student,0,2
+1446,Female,46,42000,44,Skilled Trades,20,1
+432,Male,65,39500,47,Retired,35,2
+1273,Female,36,16500,46,Healthcare,16,3
+293,Female,44,50000,54,Sales & Marketing,15,1
+1150,Female,28,34500,81,Sales & Marketing,0,4
+870,Male,48,83000,29,Engineer,23,2
+994,Female,35,27500,60,Sales & Marketing,11,2
+1283,Female,49,46500,51,Finance,18,2
+995,Male,36,35500,59,Skilled Trades,8,5
+1398,Female,47,116000,75,Executive,18,2
+1172,Female,22,50000,61,Sales & Marketing,2,2
+894,Male,45,58500,85,Engineer,18,5
+376,Female,47,73000,65,Engineer,15,1
+1127,Male,34,41000,53,Engineer,14,3
+1043,Female,42,53000,71,Education,8,1
+881,Male,50,51500,57,IT,17,1
+107,Female,56,46500,29,Skilled Trades,28,5
+729,Male,36,53500,58,Skilled Trades,12,5
+698,Male,43,53500,54,Sales & Marketing,14,1
+521,Female,68,45000,56,Retired,38,1
+448,Female,56,42000,55,Skilled Trades,20,4
+1724,Female,46,73000,57,Engineer,17,3
+205,Female,47,54500,140,Healthcare,14,1
+436,Male,41,75500,53,Engineer,8,1
+657,Female,55,21500,36,Sales & Marketing,14,3
+149,Female,79,27000,18,Retired,48,1
+934,Female,39,32000,64,Healthcare,4,2
+1962,female,35,71500,88,Sales & Marketing,10,1
+792,Female,40,72000,35,IT,15,5
+1789,Male,31,72500,84,Engineer,7,2
+1697,Female,32,35500,63,Education,5,4
+1245,Female,39,72000,74,IT,13,1
+815,Female,57,99000,16,IT,33,3
+1881,Male,41,109000,81,Executive,17,5
+740,Female,62,89500,61,Finance,31,4
+417,Female,42,40000,53,Engineer,15,3
+1928,Male,54,66000,67,IT,20,2
+114,Male,69,26000,31,Retired,41,2
+396,Female,25,59500,80,Engineer,2,3
+1558,Female,44,46500,96,Education,17,3
+37,Female,21,11500,70,Student,0,1
+874,Female,66,63500,49,Healthcare,28,4
+264,Male,35,34000,45,Skilled Trades,10,3
+239,Female,56,42500,26,Skilled Trades,25,3
+197,FEMALE,51,44500,55,IT,23,1
+1064,Male,30,71000,79,Engineer,6,2
+95,Female,69,25000,35,Retired,46,1
+892,Female,30,78000,10,IT,2,3
+878,Male,48,92000,12,Sales & Marketing,17,5
+810,Female,26,66500,76,Sales & Marketing,5,1
+1468,Male,41,50500,57,Engineer,14,3
+487,Female,20,11000,67,Student,0,1
+1593,Male,71,30000,25,Retired,42,3
+1194,Male,33,60500,80,Sales & Marketing,6,1
+1922,Female,33,77000,37,Engineer,10,5
+752,Male,36,65500,66,Healthcare,11,3
+88,Male,26,41000,48,Healthcare,0,4
+1386,Female,66,49000,37,Finance,37,1
+1098,Female,30,67500,85,IT,1,1
+1065,Male,29,45500,78,Finance,1,2
+267,Female,29,118500,87,Executive,3,2
+603,Male,57,48500,21,Engineer,31,4
+75,Male,55,47500,64,Skilled Trades,26,3
+523,Female,22,63500,66,Education,0,1
+189,Female,18,6000,45,Student,0,1
+1458,Male,42,66500,49,Engineer,16,4
+857,Male,26,45000,79,Skilled Trades,0,4
+1795,Male,42,56000,74,Sales & Marketing,10,3
+687,Male,22,55000,65,Sales & Marketing,0,1
+1693,Male,44,55500,78,Skilled Trades,17,3
+925,Male,37,57000,59,Skilled Trades,9,2
+492,Male,38,122500,77,Executive,8,4
+151,Female,32,46000,88,Education,8,5
+1796,Female,78,42000,33,Retired,48,1
+1036,Male,55,55000,45,Healthcare,27,2
+1233,female,48,74000,71,Healthcare,15,1
+1476,Female,18,10500,82,Student,0,1
+1907,Male,48,49500,61,Skilled Trades,22,1
+1913,Male,24,96000,29,,4,5
+1597,Male,48,70500,70,IT,16,4
+399,Female,49,57000,58,Engineer,21,3
+1589,Male,20,11500,65,Student,0,1
+286,Female,42,26000,34,Skilled Trades,11,2
+1202,Male,45,50500,55,Healthcare,18,4
+1441,Male,48,65000,54,Finance,26,2
+703,Male,34,39000,54,IT,11,5
+978,Female,41,83000,64,Engineer,18,2
+1692,Female,39,48500,40,Engineer,13,4
+814,Female,82,42500,36,Retired,48,1
+474,Female,21,10000,75,Student,0,1
+1927,Female,31,30000,51,Sales & Marketing,1,4
+1823,Female,44,49500,60,Healthcare,24,4
+1105,Female,44,48000,50,Engineer,18,3
+1936,Female,37,55000,59,Sales & Marketing,17,3
+588,Male,41,75500,25,IT,16,1
+1178,Male,82,37500,22,Retired,48,3
+1310,Female,23,49500,77,Skilled Trades,1,2
+1482,Male,46,65500,38,Sales & Marketing,13,5
+253,Female,19,12500,65,Student,0,1
+146,Male,55,37500,64,Skilled Trades,21,1
+1237,Male,20,19500,70,Student,0,1
+638,Male,73,29500,17,Retired,46,2
+1726,Female,63,87000,38,Engineer,33,4
+119,Female,78,31500,23,Retired,48,2
+1517,Male,32,57500,61,Sales & Marketing,1,5
+709,Female,57,95500,74,Executive,28,2
+1249,Male,53,71500,66,Finance,19,4
+754,Female,46,65500,62,Finance,14,3
+1851,Female,25,60000,93,Sales & Marketing,0,3
+438,Male,53,32000,14,Healthcare,17,2
+1393,Female,47,39500,51,Skilled Trades,18,4
+1272,Male,62,48000,43,Engineer,24,4
+7,FEMALE,70,35500,26,Retired,41,3
+1937,Male,44,74500,62,Engineer,19,3
+246,Male,49,76000,19,IT,18,2
+1221,Female,49,122500,70,Executive,11,1
+581,Female,35,59500,36,IT,8,1
+541,Female,48,57000,45,Education,22,4
+1019,Female,61,57000,36,Skilled Trades,30,1
+1774,Female,32,49500,77,Education,0,4
+968,Female,44,56000,72,IT,15,4
+684,Female,28,65500,64,Healthcare,8,3
+1540,Male,25,6000,81,Student,0,1
+1968,female,51,78500,31,Healthcare,18,3
+501,Male,48,84000,57,,21,3
+27,Female,47,120000,33,Executive,15,1
+1073,Female,43,91500,49,Sales & Marketing,19,4
+1224,Male,63,53000,33,Engineer,33,1
+262,Male,25,29000,73,Skilled Trades,0,5
+1126,Male,41,81000,25,IT,14,1
+230,Male,73,26000,37,Retired,43,2
+850,Female,35,75500,79,IT,9,1
+686,Male,46,53000,74,Education,18,2
+219,Female,36,70500,54,Finance,12,3
+1201,Female ,22,83500,82,Engineer,0,3
+61,Male,45,80000,90,Finance,10,6
+55,Male,45,44000,68,IT,14,3
+1500,Male,63,23500,14,Retired,34,2
+1644,Female,46,33000,17,Skilled Trades,19,1
+22,Female,36,70500,80,Finance,10,3
+18,Male,52,58000,52,Sales & Marketing,16,1
+1075,Female,47,50000,58,Skilled Trades,17,3
+1667,Female,58,27500,44,Finance,26,4
+834,Male,20,12000,54,Student,0,1
+1523,Male,26,19000,96,Student,0,1
+946,Male,55,61000,34,IT,18,2
+196,Male,39,60500,72,Education,12,2
+798,Male,66,47000,40,Sales & Marketing,36,4
+671,FEMALE,35,77000,24,Engineer,15,3
+1018,female,43,59500,51,Sales & Marketing,15,1
+1532,Male,44,76500,31,Engineer,12,3
+1254,Female,25,59000,63,IT,1,1
+1780,Male,49,61000,26,Finance,21,2
+158,Male,31,65000,73,Engineer,4,2
+1951,Male,76,45000,39,Retired,48,1
+1661,Male,47,44000,59,Skilled Trades,16,3
+1737,Male,41,44500,50,Finance,10,6
+1530,Male,41,35000,73,Sales & Marketing,14,4
+662,Male,39,78500,88,Engineer,10,2
+1625,Female,44,66500,43,Engineer,20,1
+1690,Male,28,78000,41,Executive,0,3
+1978,Male,52,71500,47,Healthcare,11,6
+444,Female,134,77500,43,IT,11,2
+1009,Male,44,71500,79,Engineer,15,2
+406,Male,66,56500,40,Sales & Marketing,31,1
+1391,Female,82,27500,1,Retired,48,2
+1293,Female,37,38500,52,Skilled Trades,15,3
+188,Female,39,89000,65,Finance,1,4
+1216,Female,24,64000,59,Engineer,3,2
+494,Male,22,50000,50,Sales & Marketing,1,4
+407,Male,40,76000,89,Engineer,11,1
+1875,Female,37,52500,47,IT,15,2
+99,Male,38,71000,53,Executive,7,5
+1115,Female,78,30500,66,Retired,48,2
+254,Male,68,12500,42,Retired,46,6
+1478,Male,63,18000,38,,30,3
+956,Male,54,50500,56,Skilled Trades,21,4
+1529,Male,37,84500,10,,6,3
+932,Female,24,78000,68,Finance,2,3
+1229,Male,39,71000,54,IT,12,2
+1457,Female,46,45000,41,Skilled Trades,12,4
+194,Male,44,69500,52,Engineer,17,5
+185,Female,52,41000,45,Education,19,1
+210,Male,35,52500,64,IT,10,1
+1604,Male,32,74000,65,Engineer,0,4
+455,Female,23,21500,80,Student,0,1
+1865,Male,19,6000,71,Student,0,1
+1638,Male,80,39500,37,,48,2
+1452,Male,69,33000,33,Retired,39,3
+646,Male,31,96500,77,Finance,0,2
+1203,Male,62,28000,57,Skilled Trades,31,2
+528,Female,39,64500,33,Sales & Marketing,14,4
+1078,Female,44,64000,63,IT,22,3
+1818,Male,21,6000,0,Student,0,1
+1652,Female,33,40000,83,IT,9,3
+428,Female,34,82500,46,Executive,10,4
+443,Male,47,74500,73,Executive,17,1
+420,Male,33,33000,57,Skilled Trades,10,3
+490,Male,39,71500,52,Finance,11,1
+597,Male,19,17500,61,Student,0,1
+1760,Male,44,52000,69,Sales & Marketing,15,2
+1309,Male,39,86500,53,Engineer,17,1
+1964,Female ,21,18000,68,Student,0,1
+1744,Male,46,47500,41,Healthcare,20,2
+77,Male,27,12000,57,Student,0,1
+1551,Male,44,89500,85,Engineer,16,4
+1410,Female,26,6000,64,Student,0,1
+1380,Female,38,50000,47,Sales & Marketing,8,4
+127,Male,39,84000,69,Engineer,6,6
+1428,Male,66,89500,62,Finance,29,1
+1250,Female,53,57500,50,Sales & Marketing,20,1
+954,Female,25,33500,77,Skilled Trades,5,2
+275,Male,63,42500,46,Education,28,3
+1578,Male,39,42000,43,Sales & Marketing,10,2
+680,Female,39,65500,65,Finance,9,3
+565,Male,55,47500,29,IT,21,6
+1827,Male,39,67500,64,Education,9,3
+1063,Female,60,52000,43,IT,25,1
+1026,Female,63,59000,63,IT,32,2
+1429,Female,46,41000,57,Education,18,3
+1633,Female,59,45500,76,Healthcare,27,1
+1841,Female,23,74500,80,,0,2
+1580,Male,49,51000,70,Education,17,2
+224,Female,40,90500,16,Engineer,10,2
+1591,Female,37,73000,59,Finance,5,2
+1980,Female,52,59500,60,Healthcare,22,2
+47,Female,46,48500,77,IT,14,2
+1035,Female,35,84500,56,Engineer,1,1
+1087,Female,41,40000,55,IT,7,2
+1180,Female,53,64000,59,Sales & Marketing,22,2
+1051,Female,32,48500,57,Skilled Trades,1,2
+1967,Female,26,57000,61,Sales & Marketing,3,1
+574,Male,80,28000,49,Retired,48,2
+843,Female,46,72500,48,Finance,14,1
+631,Male,58,69000,40,Engineer,26,3
+773,Female,52,83500,65,Engineer,12,1
+1663,Female,18,6000,84,Student,0,1
+1943,Male,52,53500,59,,17,5
+1370,Male,56,97500,54,Engineer,18,2
+48,Male,34,54000,75,Education,14,2
+1494,Male,21,20500,77,Student,0,2
+393,Female,57,82500,21,Engineer,25,4
+602,Female,54,52000,67,Healthcare,25,3
+1802,Male,53,49000,42,Healthcare,16,3
+1400,Male,53,53500,55,Sales & Marketing,17,5
+1844,Female,40,44500,75,Healthcare,15,3
+697,Male,41,80500,64,Finance,7,1
+756,Female,49,50500,50,Healthcare,15,1
+1384,Female,60,77500,63,Executive,28,4
+1807,Female,48,60000,75,Sales & Marketing,21,4
+1934,Female,24,59500,92,Education,0,1
+826,Male,57,30500,49,Skilled Trades,28,3
+383,Female,44,62500,56,IT,9,3
+1822,Female,53,39000,47,Skilled Trades,24,3
+596,Male,43,106500,56,Finance,12,3
+1777,Female,41,61500,47,Engineer,5,2
+766,Female,78,38000,27,Retired,48,2
+1537,Male,36,29000,57,Skilled Trades,11,1
+727,Female,39,48500,68,Healthcare,12,3
+321,Male,48,51000,90,IT,12,4
+799,Female,39,90000,57,Finance,16,1
+1294,Female,47,64500,67,Engineer,19,1
+598,Male,56,35000,65,Education,28,4
+800,Male,19,7000,55,Student,0,1
+84,Female,42,32000,42,Sales & Marketing,11,4
+947,Male,77,29000,35,Retired,48,5
+169,Female,50,30500,55,Skilled Trades,19,1
+516,Female,43,46000,53,Sales & Marketing,10,2
+635,Female,32,69500,62,Engineer,10,1
+214,Male,44,68000,80,IT,18,6
+1895,Male,81,30500,41,Retired,48,3
+883,Male,43,70500,61,Engineer,11,3
+1759,Female,74,28500,23,Retired,48,6
+1486,Female,56,55000,41,Education,26,1
+1480,Male,36,71500,54,Engineer,11,4
+755,Male,28,53500,57,Healthcare,4,1
+268,Female,49,44500,50,Finance,17,2
+1469,Male,34,56000,80,IT,6,1
+1969,Male,68,33000,57,Retired,38,1
+860,female,45,64000,55,Sales & Marketing,16,3
+498,Female,25,14000,79,Student,0,1
+43,Female,52,76000,6,Finance,30,1
+325,Female,76,11000,27,Retired,48,2
+610,Male,53,61000,51,Sales & Marketing,16,3
+835,Female,53,62500,60,Engineer,27,1
+630,Female,53,62500,72,Engineer,21,4
+1497,Female,48,60500,42,Healthcare,24,1
+1366,Female,63,89000,9,Executive,21,3
+1372,MALE,39,41000,54,Education,17,2
+1322,Female,46,49000,60,,14,1
+470,Female,31,36000,65,Skilled Trades,8,4
+1069,Female,24,21500,64,Student,0,1
+350,Female,50,37500,51,Skilled Trades,14,4
+1975,Female,29,38500,66,Education,5,3
+1985,Female,47,53000,57,Sales & Marketing,22,3
+1389,Female,44,52500,55,Healthcare,13,3
+1268,Male,26,16000,64,Student,0,2
+820,Female,50,56500,62,Engineer,18,2
+1427,Female,55,62000,38,Healthcare,12,2
+290,Male,44,60000,56,Healthcare,12,3
+135,Female,26,45500,66,Skilled Trades,6,3
+1379,Male,28,48000,61,Healthcare,0,6
+318,Female,70,26500,40,Retired,42,2
+497,Male,29,53500,91,Finance,2,5
+1640,Female,41,25500,62,Sales & Marketing,14,1
+819,Female,81,21500,34,Retired,48,2
+132,Male,44,100000,23,Executive,15,4
+1762,Male,52,44500,43,Skilled Trades,24,1
+1893,Female,37,36000,47,Healthcare,9,4
+385,Male,67,28500,29,Retired,42,4
+1565,Male,42,67500,64,Healthcare,12,2
+1471,Male,22,58000,74,Sales & Marketing,0,1
+1955,Male,60,61500,54,Finance,20,3
+398,Female,53,60000,39,Engineer,19,2
+1694,Male,36,72500,63,Finance,7,2
+510,Male,48,53500,72,Education,10,4
+1021,Female,27,19500,70,Student,0,1
+1956,Male,36,80000,54,Engineer,4,2
+1122,Female,40,49000,72,Skilled Trades,15,3
+364,Female,22,9000,68,Student,0,1
+1319,Male,50,55000,72,Healthcare,21,2
+530,Male,41,86500,61,Engineer,13,3
+1502,Male,51,57500,66,Skilled Trades,26,1
+1282,Male,58,74000,49,Sales & Marketing,28,4
+1703,Female,46,65500,36,Engineer,17,5
+11,Male,34,32500,65,IT,8,3
+1513,Female,27,53000,86,Healthcare,0,2
+1084,Female,23,74500,57,IT,2,3
+1139,Female ,57,43000,44,Healthcare,22,2
+255,Male,49,56000,47,Skilled Trades,21,1
+1083, Female,39,74000,62,Finance,7,6
+518,Male,37,76500,8,Engineer,4,2
+803,Female,38,88500,51,Finance,12,3
+251,Female,30,48500,68,Engineer,8,1
+97,Female,50,69000,38,Engineer,22,4
+549,Male,18,10500,67,,0,1
+125,Male,54,37000,50,Skilled Trades,23,6
+133,Female,80,17500,39,Retired,48,2
+258,Male,51,44500,69,Skilled Trades,18,1
+379,Female,42,97000,55,IT,10,3
+1077,Female,39,68500,72,Finance,9,2
+1699,Male,45,69000,59,Sales & Marketing,14,2
+1595,Male,56,59500,52,Education,23,4
+1279,Female,34,29500,56,Education,9,1
+1582,Male,56,44000,36,Healthcare,26,2
+35,Female,52,64500,63,Healthcare,12,5
+1611,Male,74,11500,17,Retired,48,1
+728,Female,35,36500,78,Skilled Trades,7,2
+1266,Female,48,44500,52,Engineer,20,1
+943,Male,48,54000,81,Engineer,21,4
+1144,Male,75,30000,17,Retired,47,2
+1258,Female,78,25500,32,Retired,48,2
+1234,Male,29,90000,23,Engineer,9,2
+841,Female,55,135500,32,Executive,19,4
+1849,Male,32,51500,60,Education,1,2
+426,Female,50,69000,69,Finance,27,3
+833,Male,44,51500,51,Healthcare,14,2
+1857,Male,25,64500,71,Engineer,0,2
+963,Male,27,19000,54,Student,0,1
+1281,Male,22,49500,52,Education,0,1
+81,Male,19,12500,81,Student,0,1
+1463,Female,31,49000,74,Education,7,3
+1839,Male,36,54500,79,IT,13,4
+86,Female,41,55500,51,Finance,12,2
+1495,Male,26,28500,52,Sales & Marketing,3,3
+769,Female,32,67000,73,Sales & Marketing,4,1
+1182,Female,22,78000,53,Engineer,1,2
+1608,Female,19,12500,60,Student,0,1
+349,Male,38,52500,41,Education,13,2
+636,Male,30,31500,46,,3,4
+750,Female,40,93500,38,Engineer,16,2
+1706,Male,37,77000,71,Executive,12,5
+1355,Male,46,33000,61,Sales & Marketing,22,2
+757,Female,66,27500,29,Retired,42,2
+659,Male,54,56500,47,Engineer,17,5
+467,Female,27,68000,53,Finance,1,6
+1048,Female,30,47000,75,Skilled Trades,4,1
+552,Female,37,63500,64,Engineer,2,1
+1634,Male,30,70500,77,Healthcare,2,1
+306,MALE,45,54000,67,Sales & Marketing,9,2
+846,Male,33,60000,98,IT,9,4
+483,Male,56,35500,17,Education,22,2
+252,Female,40,105500,47,Finance,9,2
+1154,Male,41,96500,43,Engineer,10,2
+1701,Female,46,79500,25,Finance,26,3
+830,Male,61,73500,35,Healthcare,25,2
+308,Female,62,51000,41,IT,25,4
+1086,Female ,31,81000,54,Engineer,4,2
+2000,Female,39,52500,67,Skilled Trades,10,2
+1057,Male,49,23000,41,Sales & Marketing,15,2
+1973,Male,51,74500,52,Engineer,25,1
+741,Female,27,41000,49,Skilled Trades,0,3
+182,Male,50,32000,255,Skilled Trades,17,3
+700,Female,21,19000,53,Student,0,1
+1815,Male,50,73500,77,IT,26,1
+708,Female,57,52500,45,IT,17,1
+774,Female,25,45500,65,Engineer,2,3
+504,Male,42,33500,39,Skilled Trades,5,3
+536,Male,68,26500,34,Retired,43,3
+1982,Male,23,78500,32,Executive,0,3
+6,Male,25,76000,31,Executive,0,1
+101,Female,43,42500,44,Skilled Trades,14,2
+1228,Male,44,35000,61,Skilled Trades,20,5
+1826,Female,45,41500,71,Engineer,16,2
+54,Male,54,37500,62,Skilled Trades,20,1
+958,Male,49,48000,45,Healthcare,16,4
+1935,Female,24,40000,73,Education,2,4
+1039,Female,22,9000,85,Student,0,1
+83,Male,22,7000,58,Student,0,1
+961,Male,51,68000,66,Finance,20,5
+778,Female,44,69500,77,Finance,21,3
+644,Female,22,73500,95,Sales & Marketing,0,4
+87,Male,34,56000,60,Skilled Trades,14,1
+1615,Female,34,49500,79,Healthcare,9,1
+1274,Female,41,58500,40,Engineer,11,3
+1027,Female,42,41000,49,Engineer,13,4
+592,Female,37,53500,58,Skilled Trades,6,3
+1564,Female,51,59500,54,Education,25,4
+1689,Female,22,100000,82,Executive,0,5
+360,Male,52,48500,45,Education,19,3
+309,Female,49,80000,58,Engineer,24,3
+157,Female,44,58000,55,Healthcare,14,4
+1573,Female,39,37500,47,Healthcare,9,1
+1070,Female,44,39500,62,,16,1
+1006,Male,48,44500,44,IT,19,6
+589,Female,26,55000,80,Skilled Trades,2,1
+977,Male,37,63000,77,Sales & Marketing,11,2
+1106,Male,46,69500,52,Sales & Marketing,18,2
+1181,Male,41,53000,69,Skilled Trades,10,4
+1369,M,46,50500,50,Engineer,18,1
+1230,Female,25,51000,92,Skilled Trades,0,3
+1843,Male,46,61000,58,Engineer,17,5
+1932,Female,45,42500,62,Skilled Trades,12,2
+1118,Male,22,23500,61,Student,0,1
+175,Female,27,10500,51,Student,0,1
+327,Male,46,49500,37,Healthcare,19,2
+1832,Male,49,63000,57,Finance,21,4
+599,Female,35,73500,54,Finance,9,4
+1542,Female,32,39500,66,Healthcare,6,4
+594,Female,33,57500,51,Healthcare,5,3
+1323,Male,41,36000,43,Skilled Trades,14,2
+1033,Female,52,57000,56,Healthcare,25,4
+1901,Female,45,68000,68,IT,16,3
+236,Female,47,57000,70,Sales & Marketing,15,2
+1377,Male,49,84500,66,Engineer,14,2
+777,Female,39,53500,72,Education,14,3
+641,Female,34,77500,94,Engineer,8,2
+724,Female,24,49500,69,Skilled Trades,0,3
+307,Male,73,37000,13,Retired,44,2
+1473,Female,43,89000,61,Finance,9,2
+53,Male,37,43000,45,Sales & Marketing,8,1
+1239,Female,40,69500,68,Finance,13,3
+1533,Male,36,39500,93,Healthcare,9,1
+1292,Male,49,56000,53,IT,15,4
+1613,Female,34,51500,43,IT,10,4
+118,Male,51,68500,39,Finance,18,4
+761,Male,49,66500,69,Engineer,14,1
+1327,Male,46,77000,26,Finance,21,2
+1840,Female,51,55000,80,IT,14,3
+1605,Male,19,17000,71,Student,0,2
+900,Male,24,15000,53,Student,0,1
+202,Female,44,126000,44,Executive,13,2
+1650,Male,36,65500,64,IT,6,4
+985,Male,22,42000,39,Skilled Trades,0,3
+390,Male,69,31500,38,Retired,46,1
+1961,Male,69,16500,27,,46,4
+170,Male,38,39500,44,Skilled Trades,11,4
+167,Male,30,54000,76,IT,2,2
+1917,Male,32,46500,83,Healthcare,11,1
+1305,Female,71,32000,27,Retired,41,2
+1655,Male,53,50500,55,Sales & Marketing,22,5
+1521,Female,39,57000,59,Sales & Marketing,14,5
+1552,M,35,43500,82,Education,2,1
+1799,Male,43,38000,43,Engineer,16,1
+661,Female,41,49500,76,Sales & Marketing,12,1
+1838,Male,25,41500,84,Sales & Marketing,5,2
+63,Female,22,8500,56,Student,0,1
+1481,Male,38,90000,62,Finance,8,3
+1659,Male,48,87500,20,,15,2
+1768,Female,34,61500,65,Education,7,1
+50,Female,33,60500,55,Engineer,8,6
+1415,Male,42,60500,71,Sales & Marketing,11,1
+1362,Female,52,33500,65,Skilled Trades,20,5
+1588,Female,50,62000,77,IT,18,4
+1,Female,50,51000,74,Education,20,3
+1598,Female,37,86000,68,Engineer,8,1
+24,Male,43,88500,74,Engineer,15,5
+1568,Female,37,54000,72,Finance,10,2
+68,Female,28,52500,59,Sales & Marketing,8,2
+62,Female,26,10000,70,Student,0,1
+692,Male,19,7000,62,Student,0,1
+1736,Male,47,53500,50,Engineer,13,3
+566,Female,33,51000,47,Skilled Trades,3,4
+1396,Male,28,74000,81,Healthcare,4,1
+338,Male,78,30500,45,Retired,48,2
+1984,Male,34,95500,99,Engineer,13,1
+660,Male,24,16000,70,Student,0,1
+1557,Male,38,56500,63,Skilled Trades,15,3
+1860,Female,22,60000,84,Education,0,1
+165,Male,50,79000,28,Finance,15,3
+1120,Female,23,12000,55,Student,0,1
+1299,Female,26,88000,82,IT,4,1
+1477,M,45,34000,70,Skilled Trades,13,2
+865,Male,27,65000,67,Healthcare,0,3
+147,Female,24,11000,49,Student,0,1
+906,Male,36,52000,50,Healthcare,13,6
+1280,F,66,71000,59,Engineer,36,3
+303,Female,27,11500,54,Student,0,1
+1856,Male,53,85500,16,Engineer,26,2
+184,Female,44,68500,57,IT,16,4
+1304,Female,46,56000,64,Finance,15,3
+1432,Male,25,14000,61,Student,0,1
+452,Male,36,55000,69,Sales & Marketing,11,4
+1618,Male,48,61500,37,Education,20,2
+1645,Male,21,16500,76,Student,0,1
+287,Male,43,40500,53,Sales & Marketing,11,2
+421,Male,43,72500,62,IT,20,4
+1717,Female,66,29000,38,Retired,41,3
+1742,Female,50,46000,54,Healthcare,23,4
+1005,Male,37,74500,70,Engineer,17,4
+876,Male,46,43000,76,IT,14,2
+91,Male,26,87500,68,Sales & Marketing,2,1
+366,Male,57,98500,32,Sales & Marketing,22,5
+1696,Female,27,19500,43,Student,0,1
+279,Male,39,94500,61,Finance,6,1
+1125,Male,44,67500,57,Engineer,18,2
+681,Female,40,75500,75,Finance,4,4
+535,Male,45,60500,48,Finance,13,3
+532,Male,36,73000,100,IT,2,4
+192,Female,74,31000,16,Retired,48,4
+1101,Male,66,81500,22,Finance,26,1
+1076,Male,56,79500,15,Finance,17,3
+695,Male,56,45000,36,IT,21,5
+172,Female,52,70500,66,IT,19,1
+1132,Female,63,69500,70,Engineer,25,2
+1854,Male,50,27500,43,Skilled Trades,19,1
+495,Female,42,61000,50,,12,5
+152,Male,50,71000,88,Finance,15,1
+1812,Male,26,64000,82,Education,4,3
+1114,Male,42,47000,80,Education,15,2
+1243,Male,22,88500,95,Executive,0,3
+1758,Male,69,37500,50,Retired,46,2
+1042,Male,51,39000,39,Healthcare,24,3
+104,Female,44,48000,49,Skilled Trades,12,3
+493,Male,31,68500,88,Engineer,3,2
+259,Female,37,108500,32,Executive,9,1
+1637,Male ,34,62000,99,Engineer,10,2
+475,Male,34,44500,64,Skilled Trades,10,1
+1794,Female,36,73500,49,Engineer,10,2
+1104,Female,36,39000,66,Skilled Trades,3,2
+369,Female,41,50500,63,Finance,16,3
+1061,Female,46,62000,68,Healthcare,14,6
+109,Male,43,98500,40,Engineer,14,2
+277,Male,42,39500,56,Skilled Trades,16,5
+1673,Male,56,51500,53,Education,33,1
+1994,Male,35,88000,50,Finance,12,1
+1460,Female,56,59000,42,Sales & Marketing,29,1
+1190,Female,37,66500,79,IT,11,6
+1331,Male,25,27500,70,Skilled Trades,2,1
+1863,Female,42,65500,81,Healthcare,15,2
+809,Female,22,44000,70,Skilled Trades,0,2
+982,Male,50,60500,49,Healthcare,17,1
+1148,Female,22,70500,87,Healthcare,0,2
+232,Female,22,68500,66,Engineer,0,3
+1756,Female,54,74500,45,Finance,20,2
+1093,Female,67,29000,44,Retired,42,2
+1435,Female,54,56500,36,Skilled Trades,28,4
+1510,Female,60,41500,61,Finance,24,5
+471,Female,32,47500,61,Skilled Trades,2,1
+111,Male,55,43500,68,IT,19,1
+1845,Male,34,53000,65,Skilled Trades,7,2
+260,Male,33,78000,84,Engineer,7,3
+1423,Male,37,61000,68,Healthcare,14,1
+1632,Male,43,59500,66,IT,14,3
+237,Male,37,47000,60,Healthcare,17,2
+1191,Male,37,81500,72,Engineer,11,2
+1792,Female,42,142000,37,Executive,16,4
+187,Male,43,102500,44,IT,16,1
+953,Female,52,40000,55,Skilled Trades,13,1
+1097,Female,26,86500,13,Engineer,3,3
+1583,Female,51,63500,64,Engineer,19,2
+770,Male,42,72000,40,Sales & Marketing,15,2
+606,Female,37,46000,40,Healthcare,11,1
+832,Female,43,33000,34,Education,11,3
+1990,Female,28,33000,64,Healthcare,0,3
+42,Female,57,60500,53,,25,2
+1712,Male,36,38500,77,Skilled Trades,14,2
+1581,Male,65,31000,23,Sales & Marketing,26,2
+1635,Male,22,19500,69,Student,0,1
+1503,Female,46,51500,46,Education,5,1
+439,Male,77,31000,40,Retired,48,3
+1242,Female,47,41500,68,Skilled Trades,18,2
+533,Male,27,62000,79,Education,6,2
+647,Female,41,55500,52,Engineer,12,3
+572,Male,45,46000,61,Education,12,3
+912,Male,41,60500,51,Education,20,1
+1628,Male,79,25500,38,Retired,48,5
+1714,Female,72,31500,34,Retired,42,4
+1252,Male,79,15500,10,Retired,48,5
+1998,Female,43,61500,71,Sales & Marketing,13,1
+871, Female,37,36500,58,Healthcare,14,2
+920,Female,43,42500,38,Skilled Trades,12,2
+442,Male,21,12000,59,Student,0,1
+1162,Female,21,13500,71,,0,1
+1353,Female,22,21000,42,Student,0,1
+1950,Female,59,46000,39,Education,27,4
+1218,Male,40,62000,56,IT,20,1
+1698,Male,18,22000,74,Student,0,1
+1941,Male,45,66500,62,IT,11,2
+928,Female,33,92500,40,Executive,6,2
+1816,Female,21,22000,52,Student,0,1
+676,Female,52,76000,34,Finance,15,4
+1200,Male,26,26500,61,Student,0,1
+1879,Male,56,37000,34,Healthcare,27,5
+1842,Female,32,77500,41,Sales & Marketing,11,1
+1212,Female,43,129000,28,Executive,8,4
+1909,Female,49,30500,48,Skilled Trades,15,2
+1958,Male,57,93500,22,Executive,19,2
+1088,Male,23,59500,76,Engineer,3,1
+1387,Female,27,21000,82,Student,0,1
+1811,Female,56,59500,67,Sales & Marketing,25,1
+1137,Male,35,58000,62,Skilled Trades,11,1
+1929,Female,25,54000,97,Engineer,1,3
+1066,Male,33,87500,27,Finance,0,2
+1462,Female,63,26500,32,Retired,36,5
+546,Male,38,62500,61,Engineer,16,2
+341,Female,46,59500,34,Sales & Marketing,17,2
+1665,Female,49,49500,40,IT,17,1
+1433,Female,55,45000,33,Skilled Trades,23,2
+470,Female,31,36000,65,Skilled Trades,8,4
+891,Female,66,118500,42,Executive,24,3
+1944,Female,22,41000,96,IT,1,1
+851,Female,29,69000,81,Finance,2,4
+315,Male,43,54000,89,Education,11,2
+150,Male,22,86000,43,Finance,0,4
+434,Female,50,91000,32,Finance,20,5
+323,Male,43,48000,65,Skilled Trades,9,5
+1566,female,56,32500,54,Sales & Marketing,25,4
+174,Male,29,49500,61,Education,0,4
+223,F,64,41000,43,IT,23,2
+861,Male,50,38500,39,Skilled Trades,15,2
+1829,Female,24,14000,69,Student,0,1
+1727,Female,37,71500,80,Sales & Marketing,11,1
+1402,Female,58,85500,20,Engineer,21,3
+359,Female,44,86500,24,IT,19,1
+1092,Female,64,60000,49,IT,28,2
+72,Female,34,54500,67,Sales & Marketing,7,5
+768,Male,32,78000,88,IT,7,1
+351,Female,26,47000,74,Skilled Trades,1,3
+16,Female,49,64000,58,Engineer,12,6
+775,Male,52,128000,24,Executive,21,4
+971,Male,26,58500,66,Engineer,2,4
+326,Female,27,91500,34,Finance,0,2
+1846,Male,54,45000,72,Skilled Trades,18,3
+1708,Male,22,23500,52,Sales & Marketing,2,5
+130,Male,47,61500,69,Engineer,23,1
+1409,Male,18,16500,53,Student,0,2
+316,Male,37,129500,21,Executive,13,6
+885,Female,19,16000,73,Student,0,1
+1407,Male,53,64500,73,Education,23,5
+1710,Female,33,71500,56,IT,13,4
+614,Female,42,64500,65,Healthcare,0,2
+1559,Male,24,8500,58,Student,0,2
+1803,Female,33,50500,66,Education,1,2
+1550,Male,45,42000,69,IT,15,4
+1895,Male,81,30500,41,Retired,48,3
+751,Male,38,38500,80,Healthcare,16,1
+419,Male,61,27500,24,Skilled Trades,24,1
+1483,Female,41,71500,53,Sales & Marketing,21,4
+1869,Female,29,61500,79,IT,9,2
+1487,Male,51,30000,41,Healthcare,17,3
+242,Female,47,65500,60,Engineer,20,1
+65,Female,45,43000,42,Skilled Trades,14,2
+276,Female,40,47000,46,Education,12,2
+1267,Male,76,28000,27,Retired,48,1
+463,Female,29,54000,68,Engineer,6,2
+921,Male,20,20500,70,Student,0,1
+1356,Male,51,49000,19,Sales & Marketing,16,2
+126,Male,37,13000,72,Sales & Marketing,4,2
+944,Male,32,66500,61,IT,7,3
+605,Male,46,46500,32,Sales & Marketing,14,2
+272,Female,38,54500,59,Education,6,4
+405,Male,63,27500,52,Retired,39,3
+429,Female,33,74500,55,Finance,6,3
+1695,Male,33,29500,70,Healthcare,4,5
+402, Female,31,114000,40,Executive,3,1
+368,Male,48,56000,37,Healthcare,18,4
+1501,female,33,35500,69,Skilled Trades,10,3
+93,Male,43,48500,49,Engineer,15,3
+1511,Male,41,37000,64,Skilled Trades,10,2
+480,Male,39,56500,71,Healthcare,8,4
+322,Male,57,30000,39,Education,22,4
+1685,Male,34,75500,80,Finance,6,2
+353,Female,35,54500,48,Skilled Trades,4,1
+395,Female,69,37500,49,Retired,45,1
+564,Male,35,19500,61,Sales & Marketing,1,2
+1367,Male,36,63000,62,IT,4,2
+44,Female,33,59000,43,Education,13,4
+1171,Female,36,99000,74,Engineer,10,5
+1285,Male,24,15000,64,Student,0,1
+200,Male,32,42500,50,Healthcare,11,4
+1514,Male,47,56000,54,Engineer,14,3
+56,Female,59,99500,49,Executive,24,3
+337,Male,56,46500,43,Sales & Marketing,23,2
+1426,female,40,44000,65,Education,8,2
+1140,Male,22,10500,66,Student,0,1
+927,Male,22,57000,78,Sales & Marketing,0,2
+1543,Male,36,62000,78,IT,12,4
