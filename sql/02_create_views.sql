@@ -1,15 +1,11 @@
 /* =====================================================================
    Customer Segmentation Analysis
    Step 2: Cleaning and segmentation logic, stored as views
-   Run the WHOLE script once in SSMS (F5).
-   Each GO starts a new batch; CREATE VIEW must be alone in its batch.
-   Power BI later connects to these views directly.
    ===================================================================== */
-
 
 /* ---------------------------------------------------------------------
    View 1: v_customers_clean
-   - removes duplicate rows (keeps one row per customer_id)
+   - removes duplicate rows (customer_id)
    - standardises gender spelling
    - replaces missing profession with 'Unknown'
    - excludes invalid ages and spending scores
