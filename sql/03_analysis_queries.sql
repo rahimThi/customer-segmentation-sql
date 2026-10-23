@@ -1,12 +1,10 @@
 /* =====================================================================
    Customer Segmentation Analysis
    Step 3: Analysis queries for the findings
-   Run AFTER 02_create_views.sql. Highlight one query and press F5
-   to run only that one.
+
    Business question: which customer groups offer the highest
    spending potential relative to their income?
    ===================================================================== */
-
 
 -- 1. How many rows survived cleaning, and what are the split points?
 SELECT COUNT(*) AS clean_customers,
