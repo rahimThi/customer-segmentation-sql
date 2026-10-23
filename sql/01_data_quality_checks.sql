@@ -1,11 +1,7 @@
 /* =====================================================================
    Customer Segmentation Analysis
    Step 1: Data quality checks on the raw import
-   Run in SSMS, in a query window connected to your database
-   (right-click the database -> New Query).
-   Table: dbo.customers_raw  (imported from customers_raw.csv)
    ===================================================================== */
-
 
 -- 1. Row count vs. distinct customers
 --    If total_rows > distinct_customers, the file contains duplicates.
